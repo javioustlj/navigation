@@ -1,0 +1,6 @@
+[submodule "webstack-hugo"]
+	path = webstack-hugo
+	url = git@github.com:javioustlj/webstack-hugo.git
+[submodule "themes/webstack-hugo"]
+	path = themes/webstack-hugo
+	url = git@github.com:javioustlj/webstack-hugo.git
