@@ -48,28 +48,28 @@
       url: https://fanyi.baidu.com/
       description: 
 
-- taxonomy: 云盘
-  icon: fa-skyatlas
-  links: 
-    - title: 百度网盘
-      logo: assets/images/logos/Baidu-Drive.svg
-      url: https://pan.baidu.com/
-      description: 
-
-    - title: 阿里云盘
-      logo: assets/images/logos/Ali-Drive.svg
-      url: https://www.aliyundrive.com/drive
-      description: 
-
-    - title: 天翼云盘
-      logo: assets/images/logos/Tianyi-Drive.svg
-      url: https://cloud.189.cn/
-      description: 
-
-    - title: 坚果云
-      logo: assets/images/logos/Jianguo-Drive.svg
-      url: https://www.jianguoyun.com/
-      description: 
+#- taxonomy: 云盘
+#  icon: fa-skyatlas
+#  links: 
+#    - title: 百度网盘
+#      logo: assets/images/logos/Baidu-Drive.svg
+#      url: https://pan.baidu.com/
+#      description: 
+#
+#    - title: 阿里云盘
+#      logo: assets/images/logos/Ali-Drive.svg
+#      url: https://www.aliyundrive.com/drive
+#      description: 
+#
+#    - title: 天翼云盘
+#      logo: assets/images/logos/Tianyi-Drive.svg
+#      url: https://cloud.189.cn/
+#      description: 
+#
+#    - title: 坚果云
+#      logo: assets/images/logos/Jianguo-Drive.svg
+#      url: https://www.jianguoyun.com/
+#      description: 
 
 - taxonomy: 邮箱
   icon: fa-envelope
