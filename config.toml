@@ -2,3 +2,4 @@ baseURL = "https://javioustlj.github.io/navigation/"
 languageCode = "zh-cn"
 title = "夏天泉导航"
 theme = "webstack-hugo"
+disableKinds = ["taxonomy", "taxonomyTerm"]
