@@ -71,6 +71,176 @@
 #      url: https://www.jianguoyun.com/
 #      description: 
 
+- taxonomy: 影音
+  icon: fa-play-circle
+  list: 
+    - term: 视频解析
+      icon: fa-film
+      links:
+        - title: 漫步白月光解析
+          logo: assets/images/logos/Default.svg
+          url: https://vip.ccava.net/
+          description: 
+
+        - title: 落尘之木解析
+          logo: assets/images/logos/Default.svg
+          url: https://www.luochenzhimu.com/videovip
+          description: 
+
+        - title: M1907解析
+          logo: assets/images/logos/Default.svg
+          url: https://z1.m1907.cn/
+          description: 
+
+        - title: 618G解析
+          logo: assets/images/logos/Default.svg
+          url: https://jx.618g.com/?url=
+          description: 
+
+        - title: 诺讯解析
+          logo: assets/images/logos/Default.svg
+          url: https://www.nxflv.com/?url=
+          description: 
+
+        - title: 硕鼠视频
+          logo: assets/images/logos/Default.svg
+          url: http://www.flvcd.com/
+          description: 
+
+        - title: H8解析
+          logo: assets/images/logos/Default.svg
+          url: https://www.h8jx.com/
+          description: 
+
+        - title: CKMOV解析
+          logo: assets/images/logos/Default.svg
+          url: https://www.ckmov.vip/
+          description: 
+
+        - title: BL解析
+          logo: assets/images/logos/Default.svg
+          url: https://vip.bljiex.com/
+          description: 
+
+        - title: 九八看解析
+          logo: assets/images/logos/Default.svg
+          url: https://jx.youyitv.com/?url=
+          description: 
+
+        - title: Play m3u8解析
+          logo: assets/images/logos/Default.svg
+          url: https://www.playm3u8.cn/jiexi.php?url=
+          description: 
+
+        - title: Mao播放器
+          logo: assets/images/logos/Default.svg
+          url: https://www.mtosz.com/m3u8.php?url=
+          description: 
+
+        - title: 小蒋解析
+          logo: assets/images/logos/Default.svg
+          url: https://www.kpezp.cn/jlexi.php?url=
+          description: 
+
+        - title: 1717云视频解析
+          logo: assets/images/logos/Default.svg
+          url: https://www.1717yun.com/api/?url=
+          description: 
+
+        - title: 全民解析
+          url: https://www.qmye.cn/
+          description: "免费全网VIP视频会员免广告看电影！亲们如果觉得好用，请帮我们传播！ 若播放异常，刷新，更换解析方式尝试哦！ 解析来之不易，记得关注我们哦！"
+
+    - term: 视频下载
+      icon: fa-download
+      links:
+        - title: BTtwo
+          logo: assets/images/logos/BTtwo.svg
+          url: https://www.bttwo.com/
+          description: 在线观看或下载电影
+
+        - title: 微博秒拍视频图片下载
+          logo: assets/images/logos/iiilab.svg
+          url: https://weibo.iiilab.com/
+          description: 支持解析下载多个媒体网站视频
+
+        - title: V视频下载助手
+          logo: assets/images/logos/Vranks.svg
+          url: http://v.ranks.xin/
+          description: 支持解析下载多个媒体网站视频
+
+        - title: savieo
+          logo: assets/images/logos/Savieo.svg
+          url: https://savieo.com/
+          description: 支持解析下载多个媒体网站视频
+
+        - title: YTS.MX
+          logo: assets/images/logos/YTS.svg
+          url: https://yts.mx/
+          description: 下载电影
+
+        - title: Torlock
+          logo: assets/images/logos/Torlock.svg
+          url: https://www.torlock.com/
+          description: 下载电影
+
+    - term: 音乐搜索
+      icon: fa-music
+      links:
+        - title: 漫步白月光解析
+          logo: assets/images/logos/CCAVA-Music.svg
+          url: https://music.ccava.net/
+          description: 
+
+        - title: 音乐直链搜索
+          logo: assets/images/logos/Liu.svg
+          url: https://music.liuzhijin.cn/
+          description: 
+
+        - title: 无损生活
+          logo: assets/images/logos/FlacLife.svg
+          url: https://flac.life/
+          description: 无损音乐下载
+
+        - title: 加密音乐解锁
+          logo: assets/images/logos/Unlock-Music-ix.svg
+          url: https://unlock-music-ix.netlify.app/
+          description: 
+
+        - title: GNOOSIC
+          logo: assets/images/logos/Gnoosic.svg
+          url: https://www.gnoosic.com/faves.php
+          description: 智能查找音乐
+
+        - title: Tune Find
+          logo: assets/images/logos/TuneFind.svg
+          url: https://www.tunefind.com/
+          description: 查找BGM
+
+        - title: Fugue
+          logo: assets/images/logos/Fugue.svg
+          url: https://icons8.cn/music
+          description: 免版权音乐
+
+    - term: 音频处理
+      icon: fa-fast-forward
+      links:
+        - title: 灯里的歌词滚动姬
+          logo: assets/images/logos/LRC-Maker.svg
+          url: https://lrc-maker.github.io/
+          description: 在线歌词打轴
+
+        - title: 团子AI
+          logo: assets/images/logos/Dango.svg
+          url: https://dango.ai/
+          description: 伴奏、人声提取
+
+        - title: LALAL.AI
+          logo: assets/images/logos/LALAL.svg
+          url: https://www.lalal.ai/
+          description: 伴奏、人声提取
+
+
 - taxonomy: 邮箱
   icon: fa-envelope
   list: 
@@ -1387,170 +1557,6 @@
           url: https://www.dimensions.com/
           description: 有很多物体的尺寸
 
-- taxonomy: 影音
-  icon: fa-play-circle
-  list: 
-    - term: 视频解析
-      icon: fa-film
-      links:
-        - title: 漫步白月光解析
-          logo: assets/images/logos/Default.svg
-          url: https://vip.ccava.net/
-          description: 
-
-        - title: 落尘之木解析
-          logo: assets/images/logos/Default.svg
-          url: https://www.luochenzhimu.com/videovip
-          description: 
-
-        - title: M1907解析
-          logo: assets/images/logos/Default.svg
-          url: https://z1.m1907.cn/
-          description: 
-
-        - title: 618G解析
-          logo: assets/images/logos/Default.svg
-          url: https://jx.618g.com/?url=
-          description: 
-
-        - title: 诺讯解析
-          logo: assets/images/logos/Default.svg
-          url: https://www.nxflv.com/?url=
-          description: 
-
-        - title: 硕鼠视频
-          logo: assets/images/logos/Default.svg
-          url: http://www.flvcd.com/
-          description: 
-
-        - title: H8解析
-          logo: assets/images/logos/Default.svg
-          url: https://www.h8jx.com/
-          description: 
-
-        - title: CKMOV解析
-          logo: assets/images/logos/Default.svg
-          url: https://www.ckmov.vip/
-          description: 
-
-        - title: BL解析
-          logo: assets/images/logos/Default.svg
-          url: https://vip.bljiex.com/
-          description: 
-
-        - title: 九八看解析
-          logo: assets/images/logos/Default.svg
-          url: https://jx.youyitv.com/?url=
-          description: 
-
-        - title: Play m3u8解析
-          logo: assets/images/logos/Default.svg
-          url: https://www.playm3u8.cn/jiexi.php?url=
-          description: 
-
-        - title: Mao播放器
-          logo: assets/images/logos/Default.svg
-          url: https://www.mtosz.com/m3u8.php?url=
-          description: 
-
-        - title: 小蒋解析
-          logo: assets/images/logos/Default.svg
-          url: https://www.kpezp.cn/jlexi.php?url=
-          description: 
-
-        - title: 1717云视频解析
-          logo: assets/images/logos/Default.svg
-          url: https://www.1717yun.com/api/?url=
-          description:  
-
-    - term: 视频下载
-      icon: fa-download
-      links:
-        - title: BTtwo
-          logo: assets/images/logos/BTtwo.svg
-          url: https://www.bttwo.com/
-          description: 在线观看或下载电影
-
-        - title: 微博秒拍视频图片下载
-          logo: assets/images/logos/iiilab.svg
-          url: https://weibo.iiilab.com/
-          description: 支持解析下载多个媒体网站视频
-
-        - title: V视频下载助手
-          logo: assets/images/logos/Vranks.svg
-          url: http://v.ranks.xin/
-          description: 支持解析下载多个媒体网站视频
-
-        - title: savieo
-          logo: assets/images/logos/Savieo.svg
-          url: https://savieo.com/
-          description: 支持解析下载多个媒体网站视频
-
-        - title: YTS.MX
-          logo: assets/images/logos/YTS.svg
-          url: https://yts.mx/
-          description: 下载电影
-
-        - title: Torlock
-          logo: assets/images/logos/Torlock.svg
-          url: https://www.torlock.com/
-          description: 下载电影
-
-    - term: 音乐搜索
-      icon: fa-music
-      links:
-        - title: 漫步白月光解析
-          logo: assets/images/logos/CCAVA-Music.svg
-          url: https://music.ccava.net/
-          description: 
-
-        - title: 音乐直链搜索
-          logo: assets/images/logos/Liu.svg
-          url: https://music.liuzhijin.cn/
-          description: 
-
-        - title: 无损生活
-          logo: assets/images/logos/FlacLife.svg
-          url: https://flac.life/
-          description: 无损音乐下载
-
-        - title: 加密音乐解锁
-          logo: assets/images/logos/Unlock-Music-ix.svg
-          url: https://unlock-music-ix.netlify.app/
-          description: 
-
-        - title: GNOOSIC
-          logo: assets/images/logos/Gnoosic.svg
-          url: https://www.gnoosic.com/faves.php
-          description: 智能查找音乐
-
-        - title: Tune Find
-          logo: assets/images/logos/TuneFind.svg
-          url: https://www.tunefind.com/
-          description: 查找BGM
-
-        - title: Fugue
-          logo: assets/images/logos/Fugue.svg
-          url: https://icons8.cn/music
-          description: 免版权音乐
-
-    - term: 音频处理
-      icon: fa-fast-forward
-      links:
-        - title: 灯里的歌词滚动姬
-          logo: assets/images/logos/LRC-Maker.svg
-          url: https://lrc-maker.github.io/
-          description: 在线歌词打轴
-
-        - title: 团子AI
-          logo: assets/images/logos/Dango.svg
-          url: https://dango.ai/
-          description: 伴奏、人声提取
-
-        - title: LALAL.AI
-          logo: assets/images/logos/LALAL.svg
-          url: https://www.lalal.ai/
-          description: 伴奏、人声提取
 
 - taxonomy: 图书
   icon: fa-book
