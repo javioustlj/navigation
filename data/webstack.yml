@@ -73,7 +73,67 @@
 
 - taxonomy: 影音
   icon: fa-play-circle
-  list: 
+  list:
+
+    - term: 影视推荐
+      links:
+        - title: MVCAT
+          logo: assets/images/logos/Mycat.png
+          url: https://www.mvcat.com
+          description: 人生如戏，戏如人生，命由己造，相由心生。
+
+    - term: 在线播放：
+      links:
+        - title: 免费电影网
+          logo: assets/images/logos/Mianfeidianyingwang.png
+          url: https://www.mov00.com/
+          description: 免费电影网，免费在线电影，免费在线电视剧，免费在线综艺节目，免费在线动漫
+
+        - title: 最全电影 - 365分享网-365电影网-66影视网-尘落电影网-天天电影网-777电影网-免VIP在线看
+          logo: assets/images/logos/Mianfeidianyingwang.png
+          url: https://www.zuiquandy.com/
+          description: 最全电影网聚合了365分享网、斑马电影、斑马电影街1313电影网、尘落电影网,巴巴在线电影等多个网站的免VIP在线看的视频资源.在线看好看的电影电视剧就上www.zuiquandy.com
+
+        - title: 茶杯狐 Cupfox - 努力让找电影变得简单
+          logo: 
+          url: https://cupfox.app/
+          description: 茶杯狐是中国最大的影视资源聚合搜索引擎，实时聚合全网优质影视资源，同时支持在线、下载和字幕。电影、电视剧、动漫、综艺应有尽有。
+
+        - title: 高分电影网 - 推荐真正好看的高分电影
+          logo: assets/images/logos/Gaofendianying.png
+          url: http://www.gaofendianying.com/
+          description: 高分电影网为大家推荐真正好看的电影，推荐电影评分在7分以上的电影。拒绝烂片，只看好电影。高分电影网提供高分电影的下载以及高分电影的在线播放。
+
+        - title: 全民影院-全民影视-最新好看电影电视剧免费在线观看-全民电影网
+          logo: assets/images/logos/全民影院.png
+          url: https://www.yeyouzheng.com/
+          description: 全民影院提供好看的电影和电视剧免费在线观看，有电影排行榜和电视排行榜上的最新电影、热门电影和电视剧，资源全，更新快，追剧就上全民影院。
+
+        - title: 全民影院
+          logo: assets/images/logos/全民影院2.png
+          url: http://www.kedlmy.com/
+          description: 目前最全的免费电影资源在线观看影院，所有的VIP资源在这里都可以免费观看，数十万部精选资源供大家免费观看，最新火热上映的电影大片，各大卫视、VIP视频超前点播的电视剧尽在全民影院
+
+        - title: 4K屋 - 免费,高清,最新！
+          logo: 
+          url: https://www.kkkkwu.com/
+          description: 4K屋为您提供2020最新电视剧、电视剧大全、好看的电视剧、最新的电影在线观看和迅雷电影下载，每天更新最新好看的电视剧，最新综艺真人秀，明星信息与相关电影电视剧，同时提供电影演员表、电视剧演员表，角色等相关内容，是影视爱好者们的电影天堂www.kkkkwu.com。
+
+        - title: 奈飞中文电影站
+          logo: assets/images/logos/奈飞.png
+          url: https://yanetflix.com/
+          description: 鸭奈飞影视[YaNetflix.com][Netflix.Mom]是专注于为国内用户提供免费的奈飞影剧，在这里您无需翻墙付费即可享受奈飞电影带来的极致视听体验
+
+        - title: MK影视
+          logo: assets/images/logos/MK影视.ico
+          url: https://www.mkvdo.com/
+          description: MK影视，所有视频均从网络收集整理发布，免费分享高清电影、美剧、日剧、动漫等资源。
+
+        - title: LIBVIO
+          logo: assets/images/logos/libvio.ico
+          url: https://www.libvio.com/
+          description: 
+
     - term: 视频解析
       icon: fa-film
       links:
@@ -183,6 +243,27 @@
           logo: assets/images/logos/Torlock.svg
           url: https://www.torlock.com/
           description: 下载电影
+
+        - title: AllTube Download
+          logo: assets/images/logos/AllTubeDownload.png
+          url: https://v.hi.sy/
+          description: 在下方粘贴视频链接 （YouTube，抖音，Instagram，Twitter 等等，支持的网站比你想象的多！）
+
+    - term: 外剧
+      links:
+        - title: 天天美剧
+          logo: assets/images/logos/MJTT.png
+          url: https://www.meijutt.tv/
+          description: 海量好看的美剧在线观看、最新美剧下载！
+
+        - title: 在线之家
+          logo: assets/images/logos/Zaixianzhijia.png
+          url: https://www.zxzj.fun/
+          description: 在线美剧天堂,在线日剧推荐,在线韩剧网
+
+        - title: 查片源
+          url: https://www.chapianyuan.com/
+          description: 最新热门片源分享
 
     - term: 音乐搜索
       icon: fa-music
@@ -1686,3 +1767,17 @@
       logo: assets/images/logos/Keybr.svg
       url: https://www.keybr.com/
       description: 
+
+
+- taxonomy: 导航
+  icon: fa-coffee
+  links:
+    - title: 小众技术
+      logo: assets/images/logos/Xiaozhongjishu.svg
+      url: https://www.xiaozhongjishu.com/
+      description: 小众技术工具库,小众技术,小众工具箱,导航,资源导航,网址导航,APP推荐,网站推荐
+
+    - title: 干饭人导航
+      logo: assets/images/logos/干饭人导航.jpg
+      url: http://www.freefx.cn/
+      description: 干饭人网址导航
