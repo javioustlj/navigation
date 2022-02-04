@@ -1773,7 +1773,7 @@
   icon: fa-coffee
   links:
     - title: 小众技术
-      logo: assets/images/logos/Xiaozhongjishu.svg
+      logo: assets/images/logos/Xiaozhongjishu.png
       url: https://www.xiaozhongjishu.com/
       description: 小众技术工具库,小众技术,小众工具箱,导航,资源导航,网址导航,APP推荐,网站推荐
 
@@ -1781,3 +1781,77 @@
       logo: assets/images/logos/干饭人导航.jpg
       url: http://www.freefx.cn/
       description: 干饭人网址导航
+
+    - title: 资源猫
+      logo: assets/images/logos/资源猫.ico
+      url: https://www.ziyuanm.com/
+      description: 源猫分类目录免费为您整合全网资源，其中分类目录有休闲娱乐，音乐，阅读，软件应用以及影视等网站导航，只要在资源猫上面进行资源搜索，简单一搜，想要的资源直接出现。
+
+    - title: 集知盒子
+      logo: assets/images/logos/集知盒子.png
+      url: https://www.jizhihezi.com/
+      description: 集知盒子是一个集学习、办公、娱乐于一体的免费资源平台，让你极速找到想要的资源。真正做到省心、省时、省力、省钱。内容包括各类精品学习网站、技能学习、BT种子磁力搜索、网盘搜索、破解软件、VIP电影、音乐和各类资源。
+
+    - title: 1纳米学习
+      logo: assets/images/logos/1nami.png
+      url: http://1nami.com/
+      description: 1纳米学习导航，最专业的学习网站导航。收集国内外优质学习网站！学习必备！找资料必备！
+
+    - title: 大数据导航
+      logo: assets/images/logos/大数据导航.jpg
+      url: https://hao.199it.com/
+      description: 大数据导航，以大数据产业为主，大数据工具为辅，给用户提供一个更加快速找到大数据相关的工具平台。
+
+    - title: GatherFind
+      logo: assets/images/logos/GatherFind.png
+      url: https://www.gatherfind.com/
+      description: www.gatherfind.com(Gf导航)旨在发现分享精品网站,让访问快速找到精品网站资源从而节省您的时间,GF导航想你所想不一样的导航网站.
+
+    - title: 走读派读书导航
+      logo: assets/images/logos/走读派.png
+      url: http://www.zoudupai.com/
+      description: 走读派网址导航是一个专门为爱读书的人群准备的导航网站，我们致力于为您找到更加帮助您学习和成长的网站资源
+
+    - title: 书享家
+      logo: assets/images/logos/书享家.png
+      url: http://www.shuxiangjia.cn/
+      description: 书享家——最好用的电子书下载导航
+
+    - title: 设计师网址导航
+      logo: assets/images/logos/设计师网址导航.png
+      url: https://hao.uisdc.com/
+      description: 设计导航2013年上线至今，为设计师精选国内外优质网站。提供UI设计、设计教程、素材下载、高清图库、配色方案、App设计、网页设计等全方位设计师网站导航指引。每周更新！是优设网旗下最实用、最全面、最好用的设计师导航！
+
+    - title: 设计导航
+      logo: assets/images/logos/设计导航.png
+      url: https://hao.shejidaren.com/
+      description: 设计师网址导航专注分享优秀设计网站、免费无版权限制可商用的高品质素材，设计教程、尺寸规范、配色方案、设计素材和灵感
+
+    - title: 龙轩导航
+      logo: assets/images/logos/龙轩导航.png
+      url: http://ilxdh.com/
+      description: 龙轩导航提供最快捷的资源平台，让你迅速找到想要的资源，准确又方便快捷
+
+    - title: 果壳任意门
+      url: http://gate.guohere.com/
+      description: 发现你最爱的网站
+
+    - title: PPT导航
+      logo: assets/images/logos/PPT导航.png
+      url: https://www.pptnav.com/
+      description: 为PPTER推荐PPT设计相关网站，为你的PPT设计提供创意灵感，配色方案、免费图片、优质图标、工具插件等
+
+    - title: url导航
+      logo: assets/images/logos/url导航.png
+      url: http://ys.urlsdh.com/
+      description: 电影导航网提供线上免费在线播放电影剧集美剧韩剧等电影网站大全，高清独播在线播放不卡的优质电影网站导航为您观影提供最好的帮助。
+
+    - title: 三佰导航
+      logo: assets/images/logos/三佰导航.png
+      url: https://nav.06300.cn/
+      description: 实用工具导航，让世界尽在眼前！
+
+    - title: 八千网址导航
+      logo: assets/images/logos/八千网址导航.png
+      url: https://www.8kmm.com/
+      description: 八千导航（8kmm.com）是国内首屈一指的导航分类平台，收录国内外各类型网站供网友检索，极客网址导航致力于为广大用户推荐各行各业优秀网站，国内王网站大全尽在极客导航。
