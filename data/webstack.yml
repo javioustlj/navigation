@@ -1641,41 +1641,49 @@
 
 - taxonomy: 图书
   icon: fa-book
-  links: 
-    - title: 书享家导航
-      logo: assets/images/logos/Default.svg
-      url: http://shuxiangjia.cn/
-      description: 
+  list:
+    - term: 图书导航
+      links: 
+        - title: 书享家导航
+          logo: assets/images/logos/Default.svg
+          url: http://shuxiangjia.cn/
+          description: 
 
-    - title: Z-library
-      logo: assets/images/logos/Z-library.svg
-      url: https://zh.b-ok.global/
-      description: 号称全球最大的数字图书馆
+        - title: Z-library
+          logo: assets/images/logos/Z-library.svg
+          url: https://zh.b-ok.global/
+          description: 号称全球最大的数字图书馆
 
-    - title: 世界数字图书馆
-      logo: assets/images/logos/WDL.svg
-      url: https://www.wdl.org/zh/
-      description: 
+        - title: 世界数字图书馆
+          logo: assets/images/logos/WDL.svg
+          url: https://www.wdl.org/zh/
+          description: 
 
-    - title: 全国图书馆参考咨询联盟
-      logo: assets/images/logos/Default.svg
-      url: http://www.ucdrs.superlib.net/
-      description: 
+        - title: 全国图书馆参考咨询联盟
+          logo: assets/images/logos/Default.svg
+          url: http://www.ucdrs.superlib.net/
+          description: 
 
-    - title: 淘链客
-      logo: assets/images/logos/Toplinks.svg
-      url: http://www.toplinks.cc/s/
-      description: 
+        - title: 淘链客
+          logo: assets/images/logos/Toplinks.svg
+          url: http://www.toplinks.cc/s/
+          description: 
 
-    - title: iData
-      logo: assets/images/logos/iData.svg
-      url: https://www.cn-ki.net/
-      description: 
+        - title: iData
+          logo: assets/images/logos/iData.svg
+          url: https://www.cn-ki.net/
+          description: 
 
-    - title: 书格
-      logo: assets/images/logos/Shuge.svg
-      url: https://new.shuge.org/
-      description: 
+        - title: 书格
+          logo: assets/images/logos/Shuge.svg
+          url: https://new.shuge.org/
+          description: 
+
+    - term: 有声书
+      links:
+        - title: ESL BITS
+          url: http://esl-bits.net/
+          description: ESL-BITS是一个来自美国的有声书网站，提供大量经典名著和小说名著供大家免费阅读，和其他有声书不太一样的是，该网站可以自由选择朗读速度，大家可以拿来当成一个练习听力的强有力工具。
 
 - taxonomy: 文化
   icon: fa-fire
