@@ -1,18 +1,8 @@
 ---
 
-- taxonomy: 常用
+- taxonomy: 程序员
   icon: fa-star
   links: 
-    - title: 哔哩哔哩
-      logo: assets/images/logos/Bilibili.svg
-      url: https://www.bilibili.com/
-      description: 
-
-    - title: 知乎
-      logo: assets/images/logos/Zhihu.svg
-      url: https://www.zhihu.com/hot
-      description: 
-
     - title: Stars
       logo: assets/images/logos/Github.svg
       url: https://github.com/BahuangShanren?tab=stars
@@ -43,33 +33,52 @@
       url: https://www.deepl.com/zh/translator
       description: 
 
-    - title: 百度翻译
-      logo: assets/images/logos/Baidu-Translator.svg
-      url: https://fanyi.baidu.com/
-      description: 
+    - title: DevDocs
+      url: https://devdocs.io/
+      description: Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++…
 
-#- taxonomy: 云盘
-#  icon: fa-skyatlas
-#  links: 
-#    - title: 百度网盘
-#      logo: assets/images/logos/Baidu-Drive.svg
-#      url: https://pan.baidu.com/
-#      description: 
-#
-#    - title: 阿里云盘
-#      logo: assets/images/logos/Ali-Drive.svg
-#      url: https://www.aliyundrive.com/drive
-#      description: 
-#
-#    - title: 天翼云盘
-#      logo: assets/images/logos/Tianyi-Drive.svg
-#      url: https://cloud.189.cn/
-#      description: 
-#
-#    - title: 坚果云
-#      logo: assets/images/logos/Jianguo-Drive.svg
-#      url: https://www.jianguoyun.com/
-#      description: 
+    - title: i Hate Regex
+      logo: assets/images/logos/iHateRegex.ico
+      url: https://ihateregex.io/
+      description: i Hate Regex is a regex cheat sheet that also explains the commonly used expressions so that you understand it. Stop hating and start learning.
+
+    - title: Carbon
+      logo: assets/images/logos/carbon.ico
+      url: https://carbon.now.sh/
+      description: Carbon is the easiest way to create and share beautiful images of your source code.
+
+    - title: Data Structure Visualizations
+      logo: assets/images/logos/visualization.ico
+      url: https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+      description: Data Structure Visualizations
+
+    - title: Table Convert
+      logo: assets/images/logos/tableconvert.png
+      url: https://tableconvert.com/
+      description: TableConvert is a powerful online table converter that converts between CSV, LaTeX table, HTML, JSON Array, insert SQL, Markdown table and MediaWiki table.
+
+    - title: Dictation
+      logo: assets/images/logos/dictation.png
+      url: https://dictation.io/
+      description: Dictation is a free online speech recognition software that will help you write emails, documents and essays using your voice narration and without typing.
+
+    - title: 菜鸟教程
+      logo: assets/images/logos/菜鸟教程.png
+      url: https://www.runoob.com/
+      description: 菜鸟教程(www.runoob.com)提供了编程的基础技术教程, 介绍了HTML、CSS、Javascript、Python，Java，Ruby，C，PHP , MySQL等各种编程语言的基础知识。 同时本站中也提供了大量的在线实例，通过实例，您可以更好的学习编程。..
+
+- taxonomy: 学生慕课
+  icon:
+  list:
+
+    - title: 大学资源网
+      url: http://www.dxzy163.com/
+      description: 大学资源网致力于为每个希望提升自己能力的人提供学习平台，通过这个平台每个人都有平等提高自己能力的机会，主要学习资源有：大学课程、中学课程、小学课程、管理课程培训等视频教程！
+
+    - title: 中国高校外语mooc平台
+      logo: assets/images/logos/中国高校外语慕课平台.png
+      url: https://moocs.unipus.cn/
+      description: 中国高校外语慕课平台UMOOCs（moocs.unipus.cn）是中国高校外语慕课联盟的慕课平台，是高校专属的外语在线课程平台。中国高校外语慕课平台汇聚国内外各高校优质课程，各高校可引入联盟优质资源建设本校精品课程，实现跨校课程共享和学分互认。依托北京外国语大学Unipus智慧教育平台在教育技术领域多年的深耕细作，联盟运用云计算、移动互联、人工智能等新兴技术推动教育革新，打造中国高等外语教育领域语种最全、质量最优的一流国际化慕课平台。
 
 - taxonomy: 影音
   icon: fa-play-circle
@@ -320,7 +329,6 @@
           logo: assets/images/logos/LALAL.svg
           url: https://www.lalal.ai/
           description: 伴奏、人声提取
-
 
 - taxonomy: 邮箱
   icon: fa-envelope
@@ -626,7 +634,12 @@
         - title: MikuTools
           logo: assets/images/logos/MikuTools.svg
           url: https://tools.miku.ac/
-          description: 
+          description:
+
+        - title: 爱资料网站
+          logo: assets/images/logos/爱资料工具.png
+          url: https://www.toolnb.com/
+          description: 爱资料工具(toolnb.com),为开发运维提供全面的在线工具箱,已开发工具400款,包含开发工具,运维工具,常用工具,SEO站长工具等,是好用,方便的在线工具网站.
 
     - term: 工具~杂
       icon: fa-wrench
@@ -1069,6 +1082,26 @@
           logo: assets/images/logos/SnowFlaker.svg
           url: https://www.misha.studio/snowflaker/
           description: 各种雪花的矢量图
+
+        - title: U钙网
+          logo: assets/images/logos/U钙网.png
+          url: https://www.uugai.com/
+          description: 免费设计，无限制免费下载，无论你董不懂设计,仅需1分钟，您就可以自助设计出专业、精美的LOGO, 并可免费下载，这里有数万套LOGO模板,数百种专属字体选择,自由搭配一目了然
+
+        - title: dribble
+          logo: assets/images/logos/dribble.ico
+          url: https://dribbble.com/
+          description: Find Top Designers &amp; Creative Professionals on Dribbble. We are where designers gain inspiration, feedback, community, and jobs. Your best resource to discover and connect with designers worldwide.
+
+        - title: animista
+          logo: assets/images/logos/animista.png
+          url: https://animista.net/
+          description: Animista is a CSS animation library and a place where you can play with a collection of ready-made CSS animations and download only those you will use.
+
+        - title: seeseed
+          logo: assets/images/logos/seeseed.ico
+          url: https://www.seeseed.com/
+          description: 无穷尽设计可能，为设计师提供国内外最全的设计灵感、设计素材、设计工具、设计教程。
 
     - term: 图库
       icon: fa-photo
@@ -1776,7 +1809,6 @@
       url: https://www.keybr.com/
       description: 
 
-
 - taxonomy: 导航
   icon: fa-coffee
   links:
@@ -1863,3 +1895,23 @@
       logo: assets/images/logos/八千网址导航.png
       url: https://www.8kmm.com/
       description: 八千导航（8kmm.com）是国内首屈一指的导航分类平台，收录国内外各类型网站供网友检索，极客网址导航致力于为广大用户推荐各行各业优秀网站，国内王网站大全尽在极客导航。
+
+    - title: 果汁导航
+      logo: assets/images/logos/果汁导航.ico
+      url: http://guozhivip.com/
+      description: 【果汁导航】是果汁简约网络科技旗下的优质资源导航平台，涵盖了日常生活、娱乐、科技、知识、实用工具、考研、找工作等各个领域的优质站点。
+
+    - title: 前站导航
+      logo: assets/images/logos/前站导航.ico
+      url: http://frontendjs.com/
+      description: 最全前端导航，前端社区，收录前端网站门户、活跃社区、前端文档、互联网优秀的前端技术类网站，快速在不同社区搜索问题。
+
+    - title: Guide book
+      logo: assets/images/logos/guidebook.png
+      url: https://nav.guidebook.top/
+      description: 数字生活指南（Guidebook.top），以信息检索、知识发现、价值创造、效率提升为宗旨，致力于更好地运用互联网工具或科学方法，不断提高信息素养能力，让工作学习更高效。
+
+    - title: SDK网址导航
+      logo: assets/images/logos/sdk网址导航.ico
+      url: https://hao.sdk.cn/
+      description: SDK,SDK导航,网址导航,技术网站
