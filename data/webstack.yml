@@ -35,7 +35,7 @@
 
     - title: DevDocs
       url: https://devdocs.io/
-      description: Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++…
+      description: "Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++…"
 
     - title: i Hate Regex
       logo: assets/images/logos/iHateRegex.ico
