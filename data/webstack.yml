@@ -5,22 +5,22 @@
   links: 
     - title: Stars
       logo: assets/images/logos/Github.svg
-      url: https://github.com/BahuangShanren?tab=stars
+      url: https://github.com/javioustlj?tab=stars
       description: 我的GitHub Stars
 
     - title: Gitee
       logo: assets/images/logos/Gitee.svg
-      url: https://gitee.com/BahuangShanren/projects
+      url: https://gitee.com/javioustlj/projects
       description: 我的Gitee Repositories
 
     - title: 力扣
       logo: assets/images/logos/Leetcode.svg
-      url: https://leetcode-cn.com/
+      url: https://leetcode.com/
       description: 
 
     - title: Visual Go
       logo: assets/images/logos/VisualGo.svg
-      url: https://visualgo.net/zh
+      url: https://visualgo.net/
       description: 数据结构和算法动态可视化
 
     - title: Algorithm-Visualizer
