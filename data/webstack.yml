@@ -68,8 +68,18 @@
       description: 菜鸟教程(www.runoob.com)提供了编程的基础技术教程, 介绍了HTML、CSS、Javascript、Python，Java，Ruby，C，PHP , MySQL等各种编程语言的基础知识。 同时本站中也提供了大量的在线实例，通过实例，您可以更好的学习编程。..
 
 - taxonomy: 学生慕课
-  icon:
+  icon: assets/images/logos/中国大学mooc.png
   links:
+
+    - title: 中国大学MOOC
+      logo: assets/images/logos/中国大学mooc.png
+      url: https://www.icourse163.org/
+      description: 中国大学MOOC(慕课) 是国内优质的中文MOOC学习平台，由爱课程网携手网易云课堂打造。平台拥有包括985高校在内提供的千余门课程，其中首批获得认定的国家精品在线开放课程322门，占2017年获得认定课程总数的65.7%。每一个有提升愿望的人，都可以在这里学习优质高校课程，与名师零距离交流，并获得认证证书。
+
+    - title: 学堂在线
+      logo: assets/images/logos/学堂在线.ico
+      url: https://www.xuetangx.com/
+      description: "学堂在线是清华大学于2013年10月发起建立的慕课平台，是教育部在线教育研究中心的研究交流和成果应用平台，是国家2016年首批双创示范基地项目，是中国高等教育学会产教融合研究分会副秘书长单位，也是联合国教科文组织（UNESCO）国际工程教育中心（ICEE）的在线教育平台。目前，学堂在线运行了来自清华大学、北京大学、复旦大学、中国科技大学，以及麻省理工学院、斯坦福大学、加州大学伯克利分校等国内外高校的超过2300门优质课程，覆盖13大学科门类。"
 
     - title: 大学资源网
       url: http://www.dxzy163.com/
