@@ -90,6 +90,15 @@
       url: https://moocs.unipus.cn/
       description: 中国高校外语慕课平台UMOOCs（moocs.unipus.cn）是中国高校外语慕课联盟的慕课平台，是高校专属的外语在线课程平台。中国高校外语慕课平台汇聚国内外各高校优质课程，各高校可引入联盟优质资源建设本校精品课程，实现跨校课程共享和学分互认。依托北京外国语大学Unipus智慧教育平台在教育技术领域多年的深耕细作，联盟运用云计算、移动互联、人工智能等新兴技术推动教育革新，打造中国高等外语教育领域语种最全、质量最优的一流国际化慕课平台。
 
+- taxonomy: 博客
+  icon: assets/images/logos/中国大学mooc.png
+  links:
+
+    - title: 柳婼 の blog
+      logo: assets/images/logos/liuchuo.png
+      url: https://www.liuchuo.net/
+      description: 我不管，反正我最萌
+
 - taxonomy: 影音
   icon: fa-play-circle
   list:
