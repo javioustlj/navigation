@@ -2,70 +2,74 @@
 
 - taxonomy: 程序员
   icon: fa-star
-  links: 
-    - title: Stars
-      logo: assets/images/logos/Github.svg
-      url: https://github.com/javioustlj?tab=stars
-      description: 我的GitHub Stars
+  list:
+    - term: 仓库托管
+      links: 
+        - title: Github
+          logo: assets/images/logos/Github.svg
+          url: https://github.com/javioustlj?tab=stars
+          description: 我的GitHub Stars
 
-    - title: Gitee
-      logo: assets/images/logos/Gitee.svg
-      url: https://gitee.com/javioustlj/projects
-      description: 我的Gitee Repositories
+        - title: Gitee
+          logo: assets/images/logos/Gitee.svg
+          url: https://gitee.com/javioustlj/projects
+          description: 我的Gitee Repositories
 
-    - title: leet code
-      logo: assets/images/logos/Leetcode.svg
-      url: https://leetcode.com/
-      description: 
+    - term: 刷题
+      links: 
+        - title: leet code
+          logo: assets/images/logos/Leetcode.svg
+          url: https://leetcode.com/
+          description: 
 
-    - title: Visual Go
-      logo: assets/images/logos/VisualGo.svg
-      url: https://visualgo.net/
-      description: 数据结构和算法动态可视化
+    - term: 辅助工具
+      links: 
+        - title: Visual Go
+          logo: assets/images/logos/VisualGo.svg
+          url: https://visualgo.net/
+          description: 数据结构和算法动态可视化
 
-    - title: Algorithm-Visualizer
-      logo: assets/images/logos/Algorithm-Visualizer.svg
-      url: https://algorithm-visualizer.org/
-      description: 自定义算法动态可视化
+        - title: Algorithm-Visualizer
+          logo: assets/images/logos/Algorithm-Visualizer.svg
+          url: https://algorithm-visualizer.org/
+          description: 自定义算法动态可视化
 
-    - title: DeepL翻译
-      logo: assets/images/logos/DeepL.svg
-      url: https://www.deepl.com/zh/translator
-      description: 
+        - title: Data Structure Visualizations
+          logo: assets/images/logos/visualization.ico
+          url: https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+          description: Data Structure Visualizations
 
-    - title: DevDocs
-      url: https://devdocs.io/
-      description: "Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++…"
+        - title: i Hate Regex
+          logo: assets/images/logos/iHateRegex.ico
+          url: https://ihateregex.io/
+          description: i Hate Regex is a regex cheat sheet that also explains the commonly used expressions so that you understand it. Stop hating and start learning.
 
-    - title: i Hate Regex
-      logo: assets/images/logos/iHateRegex.ico
-      url: https://ihateregex.io/
-      description: i Hate Regex is a regex cheat sheet that also explains the commonly used expressions so that you understand it. Stop hating and start learning.
+        - title: Carbon
+          logo: assets/images/logos/carbon.ico
+          url: https://carbon.now.sh/
+          description: Carbon is the easiest way to create and share beautiful images of your source code.
 
-    - title: Carbon
-      logo: assets/images/logos/carbon.ico
-      url: https://carbon.now.sh/
-      description: Carbon is the easiest way to create and share beautiful images of your source code.
+        - title: Table Convert
+          logo: assets/images/logos/tableconvert.png
+          url: https://tableconvert.com/
+          description: TableConvert is a powerful online table converter that converts between CSV, LaTeX table, HTML, JSON Array, insert SQL, Markdown table and MediaWiki table.
 
-    - title: Data Structure Visualizations
-      logo: assets/images/logos/visualization.ico
-      url: https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
-      description: Data Structure Visualizations
+        - title: DevDocs
+          url: https://devdocs.io/
+          description: "Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++…"
 
-    - title: Table Convert
-      logo: assets/images/logos/tableconvert.png
-      url: https://tableconvert.com/
-      description: TableConvert is a powerful online table converter that converts between CSV, LaTeX table, HTML, JSON Array, insert SQL, Markdown table and MediaWiki table.
+    - term: 教程
+      links: 
+        - title: 菜鸟教程
+          logo: assets/images/logos/菜鸟教程.png
+          url: https://www.runoob.com/
+          description: 菜鸟教程(www.runoob.com)提供了编程的基础技术教程, 介绍了HTML、CSS、Javascript、Python，Java，Ruby，C，PHP , MySQL等各种编程语言的基础知识。 同时本站中也提供了大量的在线实例，通过实例，您可以更好的学习编程。..
 
-    - title: Dictation
-      logo: assets/images/logos/dictation.png
-      url: https://dictation.io/
-      description: Dictation is a free online speech recognition software that will help you write emails, documents and essays using your voice narration and without typing.
 
-    - title: 菜鸟教程
-      logo: assets/images/logos/菜鸟教程.png
-      url: https://www.runoob.com/
-      description: 菜鸟教程(www.runoob.com)提供了编程的基础技术教程, 介绍了HTML、CSS、Javascript、Python，Java，Ruby，C，PHP , MySQL等各种编程语言的基础知识。 同时本站中也提供了大量的在线实例，通过实例，您可以更好的学习编程。..
+
+
+
+
 
 - taxonomy: 学生慕课
   icon: assets/images/logos/中国大学mooc.png
@@ -1934,3 +1938,13 @@
       logo: assets/images/logos/sdk网址导航.ico
       url: https://hao.sdk.cn/
       description: SDK,SDK导航,网址导航,技术网站
+
+    - title: DeepL翻译
+      logo: assets/images/logos/DeepL.svg
+      url: https://www.deepl.com/zh/translator
+      description: 
+
+    - title: Dictation
+      logo: assets/images/logos/dictation.png
+      url: https://dictation.io/
+      description: Dictation is a free online speech recognition software that will help you write emails, documents and essays using your voice narration and without typing.
