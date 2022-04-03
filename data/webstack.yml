@@ -91,6 +91,26 @@
           url: https://www.cnmooc.org
           description: 好大学在线”（CNMOOC）是上海交通大学拥有的中国顶尖慕课平台。依托该平台，上海交通大学与百度及金智教育实施战略合作，致力于在互联网教育时代发展在线教育，让所有大学生有机会学习一流大学的课程并获得学分，让所有学习者能够享受优质教育资源，让“所有人都能上最好的大学”成为现实！
 
+        - title: MOOC中国
+          logo: assets/images/logos/MOOC中国.ico
+          url: https://www.cmooc.com/
+          description: MOOC中国是收录全球优秀开放式在线课程的中文慕课网
+
+        - title: Edx
+          logo: assets/images/logos/edx.svg
+          url: https://www.edx.org/
+          description: Access 2000 free online courses from 140 leading institutions worldwide. Gain new skills and earn a certificate of completion. Join today.
+
+        - title: coursera
+          logo: 
+          url: https://www.coursera.org/
+          description: Learn online and earn valuable credentials from top universities like Yale, Michigan, Stanford, and leading companies like Google and IBM. Join Coursera for free and transform your career with degrees, certificates, Specializations, &amp; MOOCs in data science, computer science, business, and dozens of other topics.
+
+        - title: ewant
+          logo: assets/images/logos/ewant.ico
+          url: https://www.ewant.org/
+          description: ewant育网开放教育平台
+
     - term: 公开课
       links:
         - title: 网易公开课
