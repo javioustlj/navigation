@@ -129,6 +129,14 @@
           url: https://ykt.eduyun.cn/
           description:
 
+    - term: 辅助工具
+      links:
+        - title: Microsoft Math Solver
+          logo: assets/images/logos/MicrosoftMathSolver.png
+          url: https://mathsolver.microsoft.com/
+          description: 在线数学求解器，为你免费解答代数，微积分等数学问题。浏览在线网页或下载数学求解器app获取帮助。
+
+
 - taxonomy: 博客
   icon: fa-tags
   list:
@@ -1993,6 +2001,12 @@
       logo: assets/images/logos/sdk网址导航.ico
       url: https://hao.sdk.cn/
       description: SDK,SDK导航,网址导航,技术网站
+
+    - title: SDK网址导航
+      logo: assets/images/logos/sdk网址导航.ico
+      url: https://hao.sdk.cn/
+      description: SDK,SDK导航,网址导航,技术网站
+
 
     - title: DeepL翻译
       logo: assets/images/logos/DeepL.svg
