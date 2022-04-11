@@ -66,7 +66,7 @@
           description: 菜鸟教程(www.runoob.com)提供了编程的基础技术教程, 介绍了HTML、CSS、Javascript、Python，Java，Ruby，C，PHP , MySQL等各种编程语言的基础知识。 同时本站中也提供了大量的在线实例，通过实例，您可以更好的学习编程。..
 
 - taxonomy: 学生慕课
-  icon: fa-books
+  icon: fa-university
   list:
 
     - term: 慕课平台
@@ -129,14 +129,32 @@
           url: https://ykt.eduyun.cn/
           description:
 
-- taxonomy: 博客
-  icon: assets/images/logos/中国大学mooc.png
-  links:
+    - term: 辅助工具
+      links:
+        - title: Microsoft Math Solver
+          logo: assets/images/logos/MicrosoftMathSolver.png
+          url: https://mathsolver.microsoft.com/
+          description: 在线数学求解器，为你免费解答代数，微积分等数学问题。浏览在线网页或下载数学求解器app获取帮助。
 
-    - title: 柳婼 の blog
-      logo: assets/images/logos/liuchuo.png
-      url: https://www.liuchuo.net/
-      description: 我不管，反正我最萌
+
+- taxonomy: 博客
+  icon: fa-tags
+  list:
+
+    - term: 计算机技术
+      links:
+        - title: 柳婼 の blog
+          logo: assets/images/logos/liuchuo.png
+          url: https://www.liuchuo.net/
+          description: 我不管，反正我最萌
+
+    - term: 英语
+      links:
+        - title: 田间小站
+          logo: assets/images/logos/田间小站.png
+          url: https://www.tjxz.cc/
+          description: 高级英语学习
+
 
 - taxonomy: 影音
   icon: fa-play-circle
@@ -760,6 +778,16 @@
         - title: 微信公众平台
           logo: assets/images/logos/WeChat.svg
           url: https://mp.weixin.qq.com/
+          description:
+
+        - title: similar site
+          logo: 
+          url: https://www.similarsites.com/
+          description:
+
+        - title: sitelike
+          logo: 
+          url: https://www.sitelike.org/
           description:
 
 - taxonomy: IT
@@ -1973,6 +2001,12 @@
       logo: assets/images/logos/sdk网址导航.ico
       url: https://hao.sdk.cn/
       description: SDK,SDK导航,网址导航,技术网站
+
+    - title: SDK网址导航
+      logo: assets/images/logos/sdk网址导航.ico
+      url: https://hao.sdk.cn/
+      description: SDK,SDK导航,网址导航,技术网站
+
 
     - title: DeepL翻译
       logo: assets/images/logos/DeepL.svg
