@@ -136,6 +136,32 @@
           url: https://mathsolver.microsoft.com/
           description: 在线数学求解器，为你免费解答代数，微积分等数学问题。浏览在线网页或下载数学求解器app获取帮助。
 
+    - term: 英语资源
+      links:
+        - title: Randall's ESL Cyber Listening Lab
+          logo: assets/images/logos/RandallsESLCyberListeningLab.png
+          url: https://www.esl-lab.com/
+          description: ESL在线听力网站，由多个听力练习板块构成，免费提供各种等级的英文听力练习与测验。听力练习的场景均以日常英语对话为主，涵盖购物、运动、娱乐、校园、工作面试等多个贴近生活的主题内容，大家可以根据自身听力水平选择适合的听力练习素材，是闲暇之余锻炼雅思听力和口语不可多得的素材，实用性和趣味性兼备。
+
+        - title: British Council (Listening)
+          logo: assets/images/logos/BritishCouncil.ico
+          url: https://learnenglish.britishcouncil.org/skills/listening
+          description: BritishCouncil是英国文化协会的官方英文学习网站，大家可以在上面找到有关听、说、读、写四大技能的各种练习素材，但我主推它的听力板块。相比ESL的听力等级分类，它的分类更加细致，从初级A1至高级C1都有对应的音频，文本和练习题，这些音频也都是可以下载的，考鸭们可以存在手机里，合理利用碎片时间提升自己的听力。
+
+        - title: Actively Learn
+          logo: assets/images/logos/ActiveLean.png
+          url: http://www.activelylearn.com
+          description: 一打开这个网站就能看到活泼亮眼的漫画，所以该网站上的文章风格自然也是风趣幽默的，而且它的话题分类相当清楚细致，相信大家很快就能找到适合自己阅读的文章。actively learn更注重于帮助大家提升阅读能力，不仅有文内长难句的英语释义，更有文章背景内容的科普，还有一些供读者思考的问题，分分钟培养你的英语阅读思维，扩大你的词汇量。
+
+        - title: Simon IELTS
+          logo: 
+          url: https://ielts-simon.com/
+          description: 混雅思圈的应该不会不知道Simon老师叭。Simon老师作为前雅思考官，可谓是雅思届的良心。他所创办的个人网站听、说、读、写全方位覆盖，干货满满，其中以写作最为出名。对于英语基础较好的童鞋们，我建议大家去看Simon’s IELTS eBook (Ideas for IELTS Topics)，里面囊括了24个话题，每个话题Simon老师都给出了他的观点，大家可以先看题目自己构想观点，再参考Simon的观点。有了观点后，再组织语言，套用模板写文章就会轻松不少。
+
+        - title: IELTS Buddy
+          logo: 
+          url: http://www.ieltsbuddy.com
+          description: IELTS Buddy，正如网站的名字，名副其实是考鸭们可以一起学习的地方。同样，它也涵盖听、说、读、写四大板块，且里面的内容实时更新，每个版块之下都有对应的备考tips, 还会给出一些E-book供应下载。其中的口语Tip非常详细，词汇、时态、长句、回答结构全都有提及，快去这个网站看看哈哈！
 
 - taxonomy: 博客
   icon: fa-tags
