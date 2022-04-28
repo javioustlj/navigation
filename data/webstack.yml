@@ -136,6 +136,12 @@
           url: https://mathsolver.microsoft.com/
           description: 在线数学求解器，为你免费解答代数，微积分等数学问题。浏览在线网页或下载数学求解器app获取帮助。
 
+        - title: GeoGebra
+          logo: assets/images/logos/MicrosoftMathSolver.png
+          url: https://www.geogebra.org/
+          description: 免费的课堂活动数字工具, 用于绘图计算, 几何作图, 白板协作等等
+
+
     - term: 英语资源
       links:
         - title: Randall's ESL Cyber Listening Lab
@@ -180,6 +186,18 @@
           logo: assets/images/logos/田间小站.png
           url: https://www.tjxz.cc/
           description: 高级英语学习
+
+
+- taxonomy: 资源福利
+  icon: fa-gift
+  list:
+
+    - term: 资源福利
+      links:
+        - title: 胖鸟网
+          logo: 
+          url: https://pangniao.net/
+          description: 你需要光吗？
 
 
 - taxonomy: 影音
@@ -684,11 +702,6 @@
           logo: assets/images/logos/SMSreceivefree.svg
           url: https://smsreceivefree.com/
           description: 
-
-#        - title: 隐私短信
-#          logo: assets/images/logos/Yinsiduanxin.svg
-#          url: https://www.yinsiduanxin.com/
-#          description: 
 
         - title: ZUSMS
           logo: assets/images/logos/zusms.svg
@@ -1782,7 +1795,6 @@
           logo: assets/images/logos/Dimensions.svg
           url: https://www.dimensions.com/
           description: 有很多物体的尺寸
-
 
 - taxonomy: 图书
   icon: fa-book
