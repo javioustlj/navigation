@@ -1,0 +1,15 @@
+baseURL = "https://javioustlj.github.io/navigation/"
+languageCode = "zh-CN"
+title = "夏田墨的导航"
+theme = "webstack-hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+copyright = ""
+[params]
+  author = "夏田墨"
+  description = "夏田墨的导航"
+[params.search]
+  enable = true
+[params.darkmode]
+  enable = false
