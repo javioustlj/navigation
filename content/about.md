@@ -18,3 +18,11 @@ gitee:
 - 本项目地址：[`https://javioustlj.gitee.io/navigation/`](https://javioustlj.gitee.io/navigation/)
 
 主要用来记录一些自己喜欢的网站🐱‍🐉
+
+自己参考了：
+- https://github.com/BahuangShanren/webstack-hugo
+- https://github.com/liutongxu/liutongxu.github.io
+- https://github.com/iplaycode/webstack-hugo
+- https://shenweiyan.github.io/WebStack-Hugo
+- https://nav.bioitee.com/
+- https://shenweiyan.gitee.io/webstack-hugo/

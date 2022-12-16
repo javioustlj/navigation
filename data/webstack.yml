@@ -32,7 +32,7 @@
           url: https://www.codingame.com/
           description: 编程游戏
 
-    - term: 辅助工具
+    - term: 程序员工具
       links: 
         - title: Visual Go
           logo: assets/images/logos/VisualGo.svg
@@ -190,6 +190,26 @@
           url: https://www.cmooc.com/
           description: MOOC中国是收录全球优秀开放式在线课程的中文慕课网
 
+        - title: 智慧树
+          logo: assets/images/logos/智慧树.ico
+          url: https://www.zhihuishu.com/
+          description: 智慧树是全球大型的学分课程运营服务平台，在线教育平台拥有海量大学高品质课程，网络教育在线完美支持跨校授课，学分认证，名师名课名校，在线互动教育学堂，体验VIP级课程学习，让你成为学堂中的MVP。
+
+        - title: 爱课程
+          logo: assets/images/logos/爱课程.ico
+          url: https://www.icourses.cn/
+          description: 
+
+        - title: 智慧职教MOOC学院
+          logo: assets/images/logos/智慧职教MOOC学院.jpg
+          url: https://www.icourses.cn/
+          description: 智慧职教以知识点/技能点为基本颗粒度，以整个专业的知识/技能树为整体架构，通过系列元数据对素材实现系统化管理，从而使得每个素材都能被便捷地查询和调用。
+
+        - title: 清華磨課師MOOCS
+          logo: 
+          url: https://mooc.nthu.edu.tw/
+          description: 清華磨課師MOOCS，線上教學網站
+
         - title: Edx
           logo: assets/images/logos/edx.svg
           url: https://www.edx.org/
@@ -204,6 +224,11 @@
           logo: assets/images/logos/ewant.ico
           url: https://www.ewant.org/
           description: ewant育网开放教育平台
+
+        - title: Saylor Academy
+          logo:
+          url: https://www.saylor.org/
+          description: Learn new skills, earn credit toward a degree, or advance your career at your own pace with free Saylor Academy courses!
 
     - term: 公开课
       links:
@@ -223,8 +248,19 @@
           url: https://ykt.eduyun.cn/
           description:
 
-    - term: 辅助工具
+    - term: 学生工具
       links:
+
+        - title: 中少快乐阅读平台
+          logo: assets/images/logos/中少快乐阅读平台.png
+          url: http://202.96.31.36:8888/
+          description: 少儿期刊、书籍在线阅读
+
+        - title: 锐智网-带拼音诗文有声伴读
+          logo:
+          url: http://www.raywit.com/
+          description: 锐智网专注于古诗文的注音、注释及赏析，提供古诗文的带拼音朗读，致力于让中小学生及古诗文爱好者更便捷专业准确有效地学习和诵读古诗文。
+
         - title: Microsoft Math Solver
           logo: assets/images/logos/MicrosoftMathSolver.png
           url: https://mathsolver.microsoft.com/
@@ -235,6 +271,10 @@
           url: https://www.geogebra.org/
           description: 免费的课堂活动数字工具, 用于绘图计算, 几何作图, 白板协作等等
 
+        - title: ScienceSoft.at
+          logo:
+          url: http://sciencesoft.at/
+          description: ScienceSoft,software,science,software development
 
     - term: 英语资源
       links:
@@ -273,16 +313,53 @@
           url: https://dictation.io/
           description: Dictation is a free online speech recognition software that will help you write emails, documents and essays using your voice narration and without typing.
 
+- taxonomy: 财经
+  icon: fa-money
+  list:
+    - term: 数据工具
+      links: 
+        - title: 乐咕乐股
+          logo: assets/images/logos/乐咕乐股.ico
+          url: https://legulegu.com/
+          description: 乐咕乐股网为用户提供全面的股票投资知识以及独家的股票市场量化工具等，其中文章内容覆盖股票知识、股票技巧分析、股票K线图、技术面分析、基本面分析、股票实战技术、概念股、选股技巧、选股公式、金融心理学、投资好文等10余个内容频道。
+
+        - title: 犀利猫
+          logo: assets/images/logos/犀利猫.svg
+          url: https://www.xilimao.com/
+          description: 犀利猫网提供沪深A股最新股票涨停原因，每个交易日快速更新当日涨停原因，“涨停时光机”可查询个股历史涨停原因、涨停时间以及连板情况。了解股票为什么大涨。
+
+
 - taxonomy: 博客
   icon: fa-tags
   list:
 
     - term: 计算机技术
       links:
+
         - title: 柳婼 の blog
           logo: assets/images/logos/liuchuo.png
           url: https://www.liuchuo.net/
           description: 我不管，反正我最萌
+
+        - title: Evian Zhang's naive blog
+          logo:
+          url: https://evian-zhang.github.io
+          description: 记录我平时 naive 的点子
+
+        - title: Majorli's Blogs
+          logo: assets/images/logos/Majorli.png
+          url: https://majorli.github.io/
+          description: 记录我平时 naive 的点子
+
+        - title: Harttle Land
+          logo: assets/images/logos/HarttleLand.ico
+          url: https://harttle.land/
+          description: 关于 Web、Linux、Vim、算法的笔记、教程和常见问题指南。
+
+        - title: 林中阴影
+          logo: assets/images/logos/林中阴影.png
+          url: https://blog.heysh.xyz/
+          description: 关于 Web、Linux、Vim、算法的笔记、教程和常见问题指南。
 
     - term: 英语
       links:
@@ -291,6 +368,69 @@
           url: https://www.tjxz.cc/
           description: 高级英语学习
 
+    - term: 个人博客
+      links:
+        - title: Bio & IT 爱好者
+          logo: assets/images/logos/沈维燕.png
+          url: https://shen.bioitee.com/
+          description: Bio & IT 爱好者
+
+        - title: 孤岛客
+          logo: 
+          url: https://www.huangjiwei.com/blog/
+          description: 几支无用笔，半打有心人。
+
+- taxonomy: 图书
+  icon: fa-book
+  list:
+    - term: 图书导航
+      links:
+
+        - title: 书享家导航
+          logo: assets/images/logos/Default.svg
+          url: http://shuxiangjia.cn/
+          description: 
+
+        - title: 无名图书
+          logo: assets/images/logos/无名图书.ico
+          url: https://www.book123.info/
+          description: 一个不限制下载与推送的电子书网站
+
+        - title: Z-library
+          logo: assets/images/logos/Z-library.svg
+          url: https://zh.b-ok.global/
+          description: 号称全球最大的数字图书馆
+
+        - title: 世界数字图书馆
+          logo: assets/images/logos/WDL.svg
+          url: https://www.wdl.org/zh/
+          description: 
+
+        - title: 全国图书馆参考咨询联盟
+          logo: assets/images/logos/Default.svg
+          url: http://www.ucdrs.superlib.net/
+          description: 
+
+        - title: 淘链客
+          logo: assets/images/logos/Toplinks.svg
+          url: http://www.toplinks.cc/s/
+          description: 
+
+        - title: iData
+          logo: assets/images/logos/iData.svg
+          url: https://www.cn-ki.net/
+          description: 
+
+        - title: 书格
+          logo: assets/images/logos/Shuge.svg
+          url: https://new.shuge.org/
+          description: 
+
+    - term: 有声书
+      links:
+        - title: ESL BITS
+          url: http://esl-bits.net/
+          description: ESL-BITS是一个来自美国的有声书网站，提供大量经典名著和小说名著供大家免费阅读，和其他有声书不太一样的是，该网站可以自由选择朗读速度，大家可以拿来当成一个练习听力的强有力工具。
 
 - taxonomy: 资源福利
   icon: fa-gift
@@ -302,7 +442,6 @@
           logo: 
           url: https://pangniao.net/
           description: 你需要光吗？
-
 
 - taxonomy: 影音
   icon: fa-play-circle
@@ -1055,9 +1194,16 @@
           description: 电脑系统正版镜像
 
         - title: 果核剥壳
-          logo: assets/images/logos/ITellYou.svg
+          logo: assets/images/logos/果核剥壳.png
           url: https://www.ghxi.com/
           description: 果核剥壳是一家综合科技站点，看新闻，分享破解软件、绿色软件，Windows系统。守住互联网最后的一片净土。
+
+        - title: 果核剥壳
+          logo: assets/images/logos/盒子部落.png
+          url: https://www.hezibuluo.com/
+          description: 盒子部落是一个极具特色的资源网站，本网站专注于推荐优秀软件、APP应用和互联网资源，每篇图文评测都极其用心。你在这里可以免费获取我们精选的优秀软件应用、装机必备软件，我们每天都会分享大量的软件，为您提供优质的软件及下载服务。https://www.sssam.com/
+
+
 
 - taxonomy: 建站
   icon: fa-sitemap
@@ -1855,52 +2001,6 @@
           url: https://www.dimensions.com/
           description: 有很多物体的尺寸
 
-- taxonomy: 图书
-  icon: fa-book
-  list:
-    - term: 图书导航
-      links: 
-        - title: 书享家导航
-          logo: assets/images/logos/Default.svg
-          url: http://shuxiangjia.cn/
-          description: 
-
-        - title: Z-library
-          logo: assets/images/logos/Z-library.svg
-          url: https://zh.b-ok.global/
-          description: 号称全球最大的数字图书馆
-
-        - title: 世界数字图书馆
-          logo: assets/images/logos/WDL.svg
-          url: https://www.wdl.org/zh/
-          description: 
-
-        - title: 全国图书馆参考咨询联盟
-          logo: assets/images/logos/Default.svg
-          url: http://www.ucdrs.superlib.net/
-          description: 
-
-        - title: 淘链客
-          logo: assets/images/logos/Toplinks.svg
-          url: http://www.toplinks.cc/s/
-          description: 
-
-        - title: iData
-          logo: assets/images/logos/iData.svg
-          url: https://www.cn-ki.net/
-          description: 
-
-        - title: 书格
-          logo: assets/images/logos/Shuge.svg
-          url: https://new.shuge.org/
-          description: 
-
-    - term: 有声书
-      links:
-        - title: ESL BITS
-          url: http://esl-bits.net/
-          description: ESL-BITS是一个来自美国的有声书网站，提供大量经典名著和小说名著供大家免费阅读，和其他有声书不太一样的是，该网站可以自由选择朗读速度，大家可以拿来当成一个练习听力的强有力工具。
-
 - taxonomy: 文化
   icon: fa-fire
   links: 
@@ -1997,6 +2097,161 @@
   icon: fa-bars
   list:
 
+    - term: 综合导航
+      links:
+
+        - title: 小众技术
+          logo: assets/images/logos/Xiaozhongjishu.png
+          url: https://www.xiaozhongjishu.com/
+          description: 小众技术工具库,小众技术,小众工具箱,导航,资源导航,网址导航,APP推荐,网站推荐
+
+        - title: 火烈鸟导航
+          logo: assets/images/logos/干饭人导航.jpg
+          url: http://www.freefx.cn/
+          description: 火烈鸟导航
+
+        - title: 资源猫
+          logo: assets/images/logos/资源猫.ico
+          url: https://www.ziyuanm.com/
+          description: 源猫分类目录免费为您整合全网资源，其中分类目录有休闲娱乐，音乐，阅读，软件应用以及影视等网站导航，只要在资源猫上面进行资源搜索，简单一搜，想要的资源直接出现。
+
+        - title: 集知盒子
+          logo: assets/images/logos/集知盒子.png
+          url: https://www.jizhihezi.com/
+          description: 集知盒子是一个集学习、办公、娱乐于一体的免费资源平台，让你极速找到想要的资源。真正做到省心、省时、省力、省钱。内容包括各类精品学习网站、技能学习、BT种子磁力搜索、网盘搜索、破解软件、VIP电影、音乐和各类资源。
+
+        - title: GatherFind
+          logo: assets/images/logos/GatherFind.png
+          url: https://www.gatherfind.com/
+          description: www.gatherfind.com(Gf导航)旨在发现分享精品网站,让访问快速找到精品网站资源从而节省您的时间,GF导航想你所想不一样的导航网站.
+
+        - title: 龙轩导航
+          logo: assets/images/logos/龙轩导航.png
+          url: http://ilxdh.com/
+          description: 龙轩导航提供最快捷的资源平台，让你迅速找到想要的资源，准确又方便快捷
+
+        - title: 果壳任意门
+          url: http://gate.guohere.com/
+          description: 发现你最爱的网站
+
+        - title: url导航
+          logo: assets/images/logos/url导航.png
+          url: http://ys.urlsdh.com/
+          description: 电影导航网提供线上免费在线播放电影剧集美剧韩剧等电影网站大全，高清独播在线播放不卡的优质电影网站导航为您观影提供最好的帮助。
+
+        - title: 三佰导航
+          logo: assets/images/logos/三佰导航.png
+          url: https://nav.06300.cn/
+          description: 实用工具导航，让世界尽在眼前！
+
+        - title: 八千网址导航
+          logo: assets/images/logos/八千网址导航.png
+          url: https://www.8kmm.com/
+          description: 八千导航（8kmm.com）是国内首屈一指的导航分类平台，收录国内外各类型网站供网友检索，极客网址导航致力于为广大用户推荐各行各业优秀网站，国内王网站大全尽在极客导航。
+
+        - title: 果汁导航
+          logo: assets/images/logos/果汁导航.ico
+          url: http://guozhivip.com/
+          description: 【果汁导航】是果汁简约网络科技旗下的优质资源导航平台，涵盖了日常生活、娱乐、科技、知识、实用工具、考研、找工作等各个领域的优质站点。
+
+        - title: 数字生活指南
+          logo: assets/images/logos/guidebook.png
+          url: https://nav.guidebook.top/
+          description: 数字生活指南（Guidebook.top），以信息检索、知识发现、价值创造、效率提升为宗旨，致力于更好地运用互联网工具或科学方法，不断提高信息素养能力，让工作学习更高效。
+
+        - title: 一个开始
+          logo: assets/images/logos/一个开始.png
+          url: https://aur.one/
+          description: 高效搜索，快捷导航，优质精选，用心整理。桌面主页，从这里开始。
+
+        - title: 所长导航-有范的导航网站
+          logo: assets/images/logos/所长导航.png
+          url: https://liutongxu.github.io/
+          description: 所长导航 - 精选每个链接
+
+        - title: AnywhereAnything
+          logo: assets/images/logos/aa.ico
+          url: http://lackar.com/aa/
+          description:
+
+        - title: 小白工具箱
+          logo: assets/images/logos/小白工具箱.ico
+          url: https://www.ooopn.com/
+          description: 小白工具箱
+
+        - title: 八荒山人导航
+          logo: assets/images/logos/小白工具箱.ico
+          url: https://nav.bahuangshanren.tech/
+          description: 小白工具箱
+
+
+    - term: 学习导航
+      links:
+
+        - title: 1纳米学习
+          logo: assets/images/logos/1nami.png
+          url: http://1nami.com/
+          description: 1纳米学习导航，最专业的学习网站导航。收集国内外优质学习网站！学习必备！找资料必备！
+
+        - title: 学吧导航
+          logo: assets/images/logos/学吧导航.png
+          url: https://www.xue8nav.com/
+          description: 学吧导航，超过四十万学习爱好者都在用的专业学习网址大全导航，汇集了国内外优质的学习网站和平台。网站囊括了综合平台、外语学习、编程算法、电脑办公、百科知识、设计剪辑、音乐艺术、文史哲理、医学政经、演讲座谈、数理化生等10余项分类，收录了上百个个优质的国内外学习网站。无论你是在校学生，还是上班人群，亦或是单纯的学习爱好者，无需再苦恼于四处寻找学习网站。
+
+        - title: 科塔学术
+          logo: assets/images/logos/科塔学术.ico
+          url: https://site.sciping.com/
+          description: 科塔学术导航-致力于成为国内领先的科研与学术资源导航平台，为科研人员提供科研网站导航，网址库等服务，让科研工作更简单、更有效率。
+
+        - title: Edui123.com
+          logo: assets/images/logos/Edui123.png
+          url: https://edui123.com/
+          description: 让教学简单一点点
+
+
+    - term: 专业导航
+      links:
+
+        - title: 书享家
+          logo: assets/images/logos/书享家.png
+          url: http://www.shuxiangjia.cn/
+          description: 书享家——最好用的电子书下载导航
+
+        - title: 走读派读书导航
+          logo: assets/images/logos/走读派.png
+          url: http://www.zoudupai.com/
+          description: 走读派网址导航是一个专门为爱读书的人群准备的导航网站，我们致力于为您找到更加帮助您学习和成长的网站资源
+
+        - title: 大数据导航
+          logo: assets/images/logos/大数据导航.jpg
+          url: https://hao.199it.com/
+          description: 大数据导航，以大数据产业为主，大数据工具为辅，给用户提供一个更加快速找到大数据相关的工具平台。
+
+        - title: 雪球财经网址导航
+          logo: assets/images/logos/雪球.png
+          url: https://xueqiu.com/dh
+          description: 雪球推出的财经网址导航，方便查找财经证券资讯门户网站、证券报刊官网、财经商业杂志网站，优质科技新媒体、商业新媒体网站，投资交流社区网址，国内外各类官方机构网站，各类行业网站，债券、期货、基金、黄金、外汇网站。列出宏观数据、市场数据、行业数据、研究报告、上市公司公告、股票筛选等工具。
+
+        - title: 打假导航
+          logo: assets/images/logos/打假导航.png
+          url: http://www.dajiadaohang.com/
+          description: 打假人,执法者,进货人,消费者专用查询的网址导航站点，直通官方数据库。查验商标、证书、编号、认证信息、厂家信息等官方核定的真实状态，让假货、假公司、假证件、假批文等立刻现形。
+
+        - title: 生信网址导航
+          logo: assets/images/logos/生信网址导航.png
+          url: https://liutongxu.github.io/
+          description: 生信网址导航
+
+        - title: PPT导航
+          logo: assets/images/logos/PPT导航.png
+          url: https://www.pptnav.com/
+          description: 为PPTER推荐PPT设计相关网站，为你的PPT设计提供创意灵感，配色方案、免费图片、优质图标、工具插件等
+
+        - title: 产品经理导航
+          logo: assets/images/logos/产品经理导航.png
+          url: https://www.pmbaobao.com/
+          description: 互联网人必上导航站，收录产品、运营、交互设计、用户体验、行业资讯、数据分析、电子商务、产品运营必备工具、国外优秀网站等相关网站。
+
     - term: 前端设计
       icon: fa-paint-brush
       links:
@@ -2060,123 +2315,3 @@
           logo: assets/images/logos/addog.ico
           url: https://www.addog.vip/
           description: 广告人的网址导航 | 品牌/策划/营销/创意/文案
-
-    - term: 综合导航
-      links:
-
-        - title: 小众技术
-          logo: assets/images/logos/Xiaozhongjishu.png
-          url: https://www.xiaozhongjishu.com/
-          description: 小众技术工具库,小众技术,小众工具箱,导航,资源导航,网址导航,APP推荐,网站推荐
-
-        - title: 干饭人导航
-          logo: assets/images/logos/干饭人导航.jpg
-          url: http://www.freefx.cn/
-          description: 干饭人网址导航
-
-        - title: 资源猫
-          logo: assets/images/logos/资源猫.ico
-          url: https://www.ziyuanm.com/
-          description: 源猫分类目录免费为您整合全网资源，其中分类目录有休闲娱乐，音乐，阅读，软件应用以及影视等网站导航，只要在资源猫上面进行资源搜索，简单一搜，想要的资源直接出现。
-
-        - title: 集知盒子
-          logo: assets/images/logos/集知盒子.png
-          url: https://www.jizhihezi.com/
-          description: 集知盒子是一个集学习、办公、娱乐于一体的免费资源平台，让你极速找到想要的资源。真正做到省心、省时、省力、省钱。内容包括各类精品学习网站、技能学习、BT种子磁力搜索、网盘搜索、破解软件、VIP电影、音乐和各类资源。
-
-        - title: 1纳米学习
-          logo: assets/images/logos/1nami.png
-          url: http://1nami.com/
-          description: 1纳米学习导航，最专业的学习网站导航。收集国内外优质学习网站！学习必备！找资料必备！
-
-        - title: 大数据导航
-          logo: assets/images/logos/大数据导航.jpg
-          url: https://hao.199it.com/
-          description: 大数据导航，以大数据产业为主，大数据工具为辅，给用户提供一个更加快速找到大数据相关的工具平台。
-
-        - title: GatherFind
-          logo: assets/images/logos/GatherFind.png
-          url: https://www.gatherfind.com/
-          description: www.gatherfind.com(Gf导航)旨在发现分享精品网站,让访问快速找到精品网站资源从而节省您的时间,GF导航想你所想不一样的导航网站.
-
-        - title: 走读派读书导航
-          logo: assets/images/logos/走读派.png
-          url: http://www.zoudupai.com/
-          description: 走读派网址导航是一个专门为爱读书的人群准备的导航网站，我们致力于为您找到更加帮助您学习和成长的网站资源
-
-        - title: 书享家
-          logo: assets/images/logos/书享家.png
-          url: http://www.shuxiangjia.cn/
-          description: 书享家——最好用的电子书下载导航
-
-        - title: 龙轩导航
-          logo: assets/images/logos/龙轩导航.png
-          url: http://ilxdh.com/
-          description: 龙轩导航提供最快捷的资源平台，让你迅速找到想要的资源，准确又方便快捷
-
-        - title: 果壳任意门
-          url: http://gate.guohere.com/
-          description: 发现你最爱的网站
-
-        - title: PPT导航
-          logo: assets/images/logos/PPT导航.png
-          url: https://www.pptnav.com/
-          description: 为PPTER推荐PPT设计相关网站，为你的PPT设计提供创意灵感，配色方案、免费图片、优质图标、工具插件等
-
-        - title: url导航
-          logo: assets/images/logos/url导航.png
-          url: http://ys.urlsdh.com/
-          description: 电影导航网提供线上免费在线播放电影剧集美剧韩剧等电影网站大全，高清独播在线播放不卡的优质电影网站导航为您观影提供最好的帮助。
-
-        - title: 三佰导航
-          logo: assets/images/logos/三佰导航.png
-          url: https://nav.06300.cn/
-          description: 实用工具导航，让世界尽在眼前！
-
-        - title: 八千网址导航
-          logo: assets/images/logos/八千网址导航.png
-          url: https://www.8kmm.com/
-          description: 八千导航（8kmm.com）是国内首屈一指的导航分类平台，收录国内外各类型网站供网友检索，极客网址导航致力于为广大用户推荐各行各业优秀网站，国内王网站大全尽在极客导航。
-
-        - title: 果汁导航
-          logo: assets/images/logos/果汁导航.ico
-          url: http://guozhivip.com/
-          description: 【果汁导航】是果汁简约网络科技旗下的优质资源导航平台，涵盖了日常生活、娱乐、科技、知识、实用工具、考研、找工作等各个领域的优质站点。
-
-        - title: Guide book
-          logo: assets/images/logos/guidebook.png
-          url: https://nav.guidebook.top/
-          description: 数字生活指南（Guidebook.top），以信息检索、知识发现、价值创造、效率提升为宗旨，致力于更好地运用互联网工具或科学方法，不断提高信息素养能力，让工作学习更高效。
-
-        - title: 一个开始
-          logo: assets/images/logos/一个开始.png
-          url: https://aur.one/
-          description: 高效搜索，快捷导航，优质精选，用心整理。桌面主页，从这里开始。
-
-    - term: 学习导航
-      links:
-
-        - title: 学吧导航
-          logo: assets/images/logos/学吧导航.png
-          url: https://www.xue8nav.com/
-          description: 学吧导航，超过四十万学习爱好者都在用的专业学习网址大全导航，汇集了国内外优质的学习网站和平台。网站囊括了综合平台、外语学习、编程算法、电脑办公、百科知识、设计剪辑、音乐艺术、文史哲理、医学政经、演讲座谈、数理化生等10余项分类，收录了上百个个优质的国内外学习网站。无论你是在校学生，还是上班人群，亦或是单纯的学习爱好者，无需再苦恼于四处寻找学习网站。
-
-        - title: 科塔学术
-          logo: assets/images/logos/科塔学术.ico
-          url: https://site.sciping.com/
-          description: 科塔学术导航-致力于成为国内领先的科研与学术资源导航平台，为科研人员提供科研网站导航，网址库等服务，让科研工作更简单、更有效率。
-
-        - title: 产品经理导航
-          logo: assets/images/logos/产品经理导航.png
-          url: https://www.pmbaobao.com/
-          description: 互联网人必上导航站，收录产品、运营、交互设计、用户体验、行业资讯、数据分析、电子商务、产品运营必备工具、国外优秀网站等相关网站。
-
-        - title: 雪球财经网址导航
-          logo: assets/images/logos/雪球.png
-          url: https://xueqiu.com/dh
-          description: 雪球推出的财经网址导航，方便查找财经证券资讯门户网站、证券报刊官网、财经商业杂志网站，优质科技新媒体、商业新媒体网站，投资交流社区网址，国内外各类官方机构网站，各类行业网站，债券、期货、基金、黄金、外汇网站。列出宏观数据、市场数据、行业数据、研究报告、上市公司公告、股票筛选等工具。
-
-        - title: 打假导航
-          logo: assets/images/logos/打假导航.png
-          url: http://www.dajiadaohang.com/
-          description: 打假人,执法者,进货人,消费者专用查询的网址导航站点，直通官方数据库。查验商标、证书、编号、认证信息、厂家信息等官方核定的真实状态，让假货、假公司、假证件、假批文等立刻现形。
