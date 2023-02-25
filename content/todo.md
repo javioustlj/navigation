@@ -17,7 +17,13 @@ draft: true
 8. https://www.languageguide.org/
 9. https://hanziyuan.net/
 
+https://savesubs.com/
 
+
+https://freakonomics.com/
+https://www.thisamericanlife.org/
+
+https://www.youtube.com/watch?v=WtLTM3mFQSk
 
 # 暂时不加入导航站
 
@@ -134,5 +140,21 @@ Latex editor
 11. 读书宝库http://www.dushubaoku.cn/forum.php
 12. 丁香园医学论坛http://www.dxy.cn/bbs/index.html特色：主打医学类文献。
 13. 丹道文献网论坛http://bbs.ddwxw.com/index.php特色：主打道学类文献。另有一些收费的文献下载网站如百度文库，道客巴巴，豆丁，智库，csdn，维普，万方，深圳信息港等就不多谈了
+
+
+### 同名影视
+
+全民影院
+- http://www.jlsynygs.com/
+- http://www.gylsbg.com/
+- https://bdbyy.com/
+- http://www.nm-tc.org.cn/
+- http://www.kedlmy.com/
+- https://www.yeyouzheng.com/
+
+4K 屋
+- https://www.4kwu.net/
+- https://www.4kwudy.com/
+- https://www.kkkkwu.com/
 
 ### temp

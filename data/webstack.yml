@@ -456,59 +456,50 @@
 
     - term: 在线播放：
       links:
-        - title: 免费电影网
-          logo: assets/images/logos/Mianfeidianyingwang.png
-          url: https://www.mov00.com/
-          description: 免费电影网，免费在线电影，免费在线电视剧，免费在线综艺节目，免费在线动漫
-
-        - title: 最全电影 - 365分享网-365电影网-66影视网-尘落电影网-天天电影网-777电影网-免VIP在线看
-          logo: assets/images/logos/Mianfeidianyingwang.png
-          url: https://www.zuiquandy.com/
-          description: 最全电影网聚合了365分享网、斑马电影、斑马电影街1313电影网、尘落电影网,巴巴在线电影等多个网站的免VIP在线看的视频资源.在线看好看的电影电视剧就上www.zuiquandy.com
 
         - title: 茶杯狐 Cupfox - 努力让找电影变得简单
           logo: 
           url: https://cupfox.app/
           description: 茶杯狐是中国最大的影视资源聚合搜索引擎，实时聚合全网优质影视资源，同时支持在线、下载和字幕。电影、电视剧、动漫、综艺应有尽有。
 
-        - title: 高分电影网 - 推荐真正好看的高分电影
-          logo: assets/images/logos/Gaofendianying.png
-          url: http://www.gaofendianying.com/
-          description: 高分电影网为大家推荐真正好看的电影，推荐电影评分在7分以上的电影。拒绝烂片，只看好电影。高分电影网提供高分电影的下载以及高分电影的在线播放。
-
-        - title: 全民影院-全民影视-最新好看电影电视剧免费在线观看-全民电影网
-          logo: assets/images/logos/全民影院.png
-          url: https://www.yeyouzheng.com/
-          description: 全民影院提供好看的电影和电视剧免费在线观看，有电影排行榜和电视排行榜上的最新电影、热门电影和电视剧，资源全，更新快，追剧就上全民影院。
-
-        - title: 全民影院
-          logo: assets/images/logos/全民影院2.png
-          url: http://www.kedlmy.com/
-          description: 目前最全的免费电影资源在线观看影院，所有的VIP资源在这里都可以免费观看，数十万部精选资源供大家免费观看，最新火热上映的电影大片，各大卫视、VIP视频超前点播的电视剧尽在全民影院
-
-        - title: 4K屋 - 免费,高清,最新！
-          logo: 
-          url: https://www.kkkkwu.com/
-          description: 4K屋为您提供2020最新电视剧、电视剧大全、好看的电视剧、最新的电影在线观看和迅雷电影下载，每天更新最新好看的电视剧，最新综艺真人秀，明星信息与相关电影电视剧，同时提供电影演员表、电视剧演员表，角色等相关内容，是影视爱好者们的电影天堂www.kkkkwu.com。
-
         - title: 奈飞中文电影站
           logo: assets/images/logos/奈飞.png
-          url: https://yanetflix.com/
-          description: 鸭奈飞影视[YaNetflix.com][Netflix.Mom]是专注于为国内用户提供免费的奈飞影剧，在这里您无需翻墙付费即可享受奈飞电影带来的极致视听体验
+          url: https://www.netfly.tv/
+          description: https://www.netfly.icu/ , https://www.netfly.tv/, https://www.netfly.fun/ , https://www.netfly.one/, https://www.netfly.com/
+
+        - title: LIBVIO
+          logo: assets/images/logos/libvio.ico
+          url: https://www.libvio.com/
+          description: https://libvio.app/ , https://www.libvio.me/ , https://libvio.fun/ , https://tv.libvio.cc/
 
         - title: MK影视
           logo: assets/images/logos/MK影视.ico
           url: https://www.mkvdo.com/
           description: MK影视，所有视频均从网络收集整理发布，免费分享高清电影、美剧、日剧、动漫等资源。
 
-        - title: LIBVIO
-          logo: assets/images/logos/libvio.ico
-          url: https://www.libvio.com/
-          description: 
+        - title: 高分电影网 - 推荐真正好看的高分电影
+          logo: assets/images/logos/Gaofendianying.jpg
+          url: http://www.gaofendianying.com/
+          description: 高分电影网为大家推荐真正好看的电影，推荐电影评分在7分以上的电影。拒绝烂片，只看好电影。高分电影网提供高分电影的下载以及高分电影的在线播放。
+
+        - title: 蓝光影院
+          logo: assets/images/logos/蓝光影院.ico
+          url: https://www.lgyy.vip/
+          description: 蓝光影院为您提供2022最新电视剧、好看的电视剧、最新电影、影视大全，蓝光视频免费在线观看服务，无广告不卡，每天第一时间更新！
+
+        - title: 全民影院
+          logo: assets/images/logos/全民影院2.jpg
+          url: http://www.kedlmy.com/
+          description: 目前最全的免费电影资源在线观看影院，所有的VIP资源在这里都可以免费观看，数十万部精选资源供大家免费观看，最新火热上映的电影大片，各大卫视、VIP视频超前点播的电视剧尽在全民影院
 
     - term: 视频解析
       icon: fa-film
       links:
+        - title: 夜雨聆风
+          logo: assets/images/logos/Default.svg
+          url: https://vip.yeyulingfeng.com/
+          description: 
+
         - title: 漫步白月光解析
           logo: assets/images/logos/Default.svg
           url: https://vip.ccava.net/
@@ -1202,8 +1193,6 @@
           logo: assets/images/logos/盒子部落.png
           url: https://www.hezibuluo.com/
           description: 盒子部落是一个极具特色的资源网站，本网站专注于推荐优秀软件、APP应用和互联网资源，每篇图文评测都极其用心。你在这里可以免费获取我们精选的优秀软件应用、装机必备软件，我们每天都会分享大量的软件，为您提供优质的软件及下载服务。https://www.sssam.com/
-
-
 
 - taxonomy: 建站
   icon: fa-sitemap
@@ -2092,7 +2081,6 @@
       url: https://www.keybr.com/
       description: 
 
-
 - taxonomy: 导航
   icon: fa-bars
   list:
@@ -2180,9 +2168,14 @@
           description: 小白工具箱
 
         - title: 八荒山人导航
-          logo: assets/images/logos/小白工具箱.ico
+          logo: assets/images/logos/八荒山人.svg
           url: https://nav.bahuangshanren.tech/
-          description: 小白工具箱
+          description: 
+
+        - title: 奶爸网站
+          logo: assets/images/logos/奶爸网站.png
+          url: https://www.nbwz.com/
+          description: 奶爸网站(nbwz.com)，提供各类免费网站！含电影、视频、影视大全、资源福利、音乐、学习等免费网站，是一个分享热门免费网站的网址导航。
 
 
     - term: 学习导航
