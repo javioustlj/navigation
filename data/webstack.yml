@@ -328,6 +328,17 @@
           url: https://www.xilimao.com/
           description: 犀利猫网提供沪深A股最新股票涨停原因，每个交易日快速更新当日涨停原因，“涨停时光机”可查询个股历史涨停原因、涨停时间以及连板情况。了解股票为什么大涨。
 
+    - term: 量化投资
+      links:
+        - title: QMT和PTrade量化学习
+          logo:
+          url: https://www.qmtptrade.com/
+          description: 一个专注于QMT和PTrade培训教程的博客
+
+        - title: 30天尝试新事情
+          logo:
+          url: http://30daydo.com/people/%E6%9D%8E%E9%AD%94%E4%BD%9B
+          description: 30天，在漫长的一生当中，短暂而易逝。就如在不经意间，收到手机的月结扣费短信，然后惊呼 ”这么快又月结扣钱啦"。 而一集TED演讲中，马特·卡茨却用这30天的时间，改变了性格，改变了生活方式。看完后，你是否和我一样，有一股冲动，嗯，曾经藏起来的那个儿时的梦想，曾经在脑海中瞬间即逝的疯狂的想法，是否想去尝试一下？ 害怕被人笑？ 害怕失败？ 没关系，30天之后，又是一条好汉。30天在生命中就如沧海一粟，而你尝试的这些新事情，却会一直印记在脑海中。以后，当你向别人介绍自己时，你不是说，“我是一名软件工程师"，而是“我是某本书的作者”，“我是一名记者"，"我是一名志愿者", "我是一个TED的演讲者"。"
 
 - taxonomy: 博客
   icon: fa-tags
@@ -360,6 +371,11 @@
           logo: assets/images/logos/林中阴影.png
           url: https://blog.heysh.xyz/
           description: 关于 Web、Linux、Vim、算法的笔记、教程和常见问题指南。
+
+        - title: 知了
+          logo:
+          url: https://zhile.io/
+          description: 朝闻道，夕可眠矣。 这是著名插件IDE Eval Reset的作者。
 
     - term: 英语
       links:
@@ -2200,7 +2216,6 @@
           logo: assets/images/logos/Edui123.png
           url: https://edui123.com/
           description: 让教学简单一点点
-
 
     - term: 专业导航
       links:
