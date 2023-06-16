@@ -2193,7 +2193,6 @@
           url: https://www.nbwz.com/
           description: 奶爸网站(nbwz.com)，提供各类免费网站！含电影、视频、影视大全、资源福利、音乐、学习等免费网站，是一个分享热门免费网站的网址导航。
 
-
     - term: 学习导航
       links:
 
@@ -2219,6 +2218,11 @@
 
     - term: 专业导航
       links:
+
+        - title: 蓝莓AI导航
+          logo: assets/images/logos/ioii.png
+          url: https://ioii.cn/
+          description: 这里有几百个AI应用
 
         - title: 书享家
           logo: assets/images/logos/书享家.png
