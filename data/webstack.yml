@@ -68,6 +68,11 @@
           url: https://devdocs.io/
           description: "Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++…"
 
+        - title: regular expression 101
+          logo: assets/images/logos/regex101.png
+          url: https://regex101.com/
+          description: "Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++…"
+
     - term: 教程
       links:
         - title: 菜鸟教程
