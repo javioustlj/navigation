@@ -74,6 +74,11 @@
           url: https://regex101.com/
           description: "Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++…"
 
+        - title: Tech Differences
+          logo: assets/images/logos/techdifferences.ico
+          url: https://techdifferences.com/
+          description:
+
     - term: 教程
       links:
         - title: 菜鸟教程
@@ -101,10 +106,22 @@
           url: http://www.yolinux.com/
           description: Linux Information Portal YoLinux.com includes informative tutorials and links to many Linux sites. Covers Linux topics from desktop to servers and from developers to users. Linux software development tutorials include topics on Java and C/C++.
 
-    - term: 编程语言
-      links: 
+    - term: CPP
+      links:
+
+        - title: cppreference.com
+          logo: assets/images/logos/cppreference.ico
+          url: https://en.cppreference.com/w/
+          description:
+
         - title: C++ Faq
+          logo: assets/images/logos/isocpp.png
           url: https://isocpp.org/faq
+          description:
+
+        - title: C++ FQA Lite
+          logo: 
+          url: https://yosefk.com/c++fqa/
           description:
 
         - title: C++ FAQ LITE — Frequently Asked Questions
@@ -112,15 +129,30 @@
           url: http://www.dietmar-kuehl.de/mirror/c++-faq/
           description:
 
-        - title: http://yosefk.com/c++fqa/
-          logo: assets/images/logos/W3School.svg
-          url: https://www.w3school.com/
-          description:
+        - title: LEARN C++
+          logo: assets/images/logos/learncpp.png
+          url: https://www.learncpp.com/
+          description: Skill up with our free tutorials
 
-        - title: MDN
-          logo: assets/images/logos/MDN.svg
-          url: https://developer.mozilla.org/zh-CN/
-          description:
+        - title: Modern CPP news & Blogs
+          logo: assets/images/logos/modernescpp.png
+          url: https://www.modernescpp.com/
+          description: 
+
+        - title: C++ Coding Standards - Book Home Page
+          logo: assets/images/logos/gotw_ca.ico
+          url: http://www.gotw.ca/publications/c++cs.htm
+          description: 
+
+        - title: Course Notes for (C++ Versions of) CSCI 2341 and 2342
+          logo: assets/images/logos/stmarys_ca.ico
+          url: https://cs.stmarys.ca/~porter/csc/common_341_342/notes/
+          description: 
+
+        - title: Programming Languages — C++ Working Draft
+          logo:
+          url: http://www.eel.is/c++draft/
+          description: 
 
     - term: 编辑器
       links:
@@ -135,8 +167,6 @@
           logo: assets/images/logos/python-course.ico
           url: https://python-course.eu/
           description: Free comprehensive online tutorials suitable for self-study. An online course full of hands-on exercises and solutions.
-
-
 
     - term: 网络安全
       links:
@@ -382,6 +412,12 @@
           logo:
           url: https://zhile.io/
           description: 朝闻道，夕可眠矣。 这是著名插件IDE Eval Reset的作者。
+
+        - title: 不学网
+          logo: assets/images/logos/noxue.ico
+          url: https://blog.noxue.com/
+          description: 朝闻道，夕可眠矣。 这是著名插件IDE Eval Reset的作者。
+
 
     - term: 英语
       links:
