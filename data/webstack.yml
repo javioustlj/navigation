@@ -65,6 +65,7 @@
           description: TableConvert is a powerful online table converter that converts between CSV, LaTeX table, HTML, JSON Array, insert SQL, Markdown table and MediaWiki table.
 
         - title: DevDocs
+          logo: assets/images/logos/devdocs.ico
           url: https://devdocs.io/
           description: "Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++…"
 
