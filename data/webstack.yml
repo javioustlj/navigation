@@ -84,6 +84,11 @@
           url: https://codebeautify.org/
           description: "Free Online Tools like Code Beautifiers, Code Formatters, Editors, Viewers, Minifier, Validators, Converters for Developers: XML, JSON, CSS, JavaScript, Java, C#, MXML, SQL, CSV, Excel"
 
+        - title: Refactoring Guru
+          logo: assets/images/logos/refactoring_guru.png
+          url: https://refactoring.guru/
+          description: "Refactoring is a controllable process of improving code without creating new functionality. Design Patterns are typical solutions to the commonly occurring problems in software design."
+
     - term: 教程
       links:
         - title: 菜鸟教程
@@ -110,6 +115,11 @@
           logo:
           url: http://www.yolinux.com/
           description: Linux Information Portal YoLinux.com includes informative tutorials and links to many Linux sites. Covers Linux topics from desktop to servers and from developers to users. Linux software development tutorials include topics on Java and C/C++.
+
+        - title: Geeks for Geeks
+          logo: assets/images/logos/geeksforgeeks.png
+          url: https://www.geeksforgeeks.org/
+          description: "A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions."
 
     - term: CPP
       links:
@@ -164,6 +174,11 @@
         - title: Vim Tips Wiki | Fandom
           logo: 
           url: https://vim.fandom.com/wiki/Vim_Tips_Wiki
+          description:
+
+        - title: Latex Equation Editor
+          logo: 
+          url: https://latexeditor.lagrida.com/
           description:
 
     - term: Python
@@ -296,6 +311,11 @@
           url: https://gfsoso.99lb.net/
           description: 谷粉学术:由学术文献研究者联合建立的文献检索服务,方便大家稳定快速地利用谷歌学术搜索查找文献进行学术研究.您所在区域google学术无法访问时用谷粉学术进行文献查找就对了。 https://gfsoso.99lb.net/CNKI_free_entrance.html
 
+        - title: 库问搜索
+          logo: assets/images/logos/koovin.ico
+          url: http://www.koovin.com/
+          description: 库问搜索免费提供超过千万开源学术论文资源检索和下载，涵盖宗教哲学、社会科学、政治法律、军事经济、文化教育、文学艺术、历史地理、IT信息、自然科学、生物医学、工业农业、航空航天等各大领域。
+
     - term: 学生工具
       links:
 
@@ -366,6 +386,16 @@
           url: https://savesubs.com/
           description: Helps you convert edit and download subtitles from sites like youtube, viki, facebook, dailymotion and many other with ease
 
+        - title: Type IPA phonetic symbols
+          logo: assets/images/logos/ipa_typeit.ico
+          url: https://ipa.typeit.org/
+          description:
+
+        - title: antimoon
+          logo: assets/images/logos/antimoon.png
+          url: https://www.antimoon.com/
+          description: "Advice and inspiration for learners of English as a second/foreign language (ESL/EFL)."
+
 - taxonomy: 财经
   icon: fa-money
   list:
@@ -383,6 +413,12 @@
 
     - term: 量化投资
       links:
+
+        - title: 迅投知识库
+          logo: assets/images/logos/thinktrader.ico
+          url: http://docs.thinktrader.net/
+          description: 迅投知识库面向QMT投资者的知识文档库,包括PythonApi,VBA策略开发手册,策略示例,并提供策略代写服务!
+
         - title: QMT和PTrade量化学习
           logo:
           url: https://www.qmtptrade.com/
@@ -506,6 +542,13 @@
         - title: ESL BITS
           url: http://esl-bits.net/
           description: ESL-BITS是一个来自美国的有声书网站，提供大量经典名著和小说名著供大家免费阅读，和其他有声书不太一样的是，该网站可以自由选择朗读速度，大家可以拿来当成一个练习听力的强有力工具。
+
+    - term: 图书网站
+      links:
+        - title: 汇书网
+          logo: assets/images/logos/huibooks.png
+          url: https://www.huibooks.com/
+          description: pdf,txt,mobi,epub,kindle电子书免费下载
 
 - taxonomy: 资源福利
   icon: fa-gift
@@ -2386,3 +2429,15 @@
           logo: assets/images/logos/addog.ico
           url: https://www.addog.vip/
           description: 广告人的网址导航 | 品牌/策划/营销/创意/文案
+
+- taxonomy: 无法分类
+  icon: fa-bars
+  list:
+
+    - term: 无法分类
+      links:
+
+        - title: wiki how
+          logo: assets/images/logos/wikihow.ico
+          url: https://zh.wikihow.com/
+          description: wikiHow是一项协作项目，目标是建立世界最大的最高质量的指导手册。无论您想做什么，我们的多语种指导手册都可以为您提供免费的逐步指导。
