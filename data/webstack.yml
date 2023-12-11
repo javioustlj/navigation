@@ -79,6 +79,11 @@
           url: https://techdifferences.com/
           description:
 
+        - title: Code Beautify
+          logo: assets/images/logos/codebeautify.png
+          url: https://codebeautify.org/
+          description: "Free Online Tools like Code Beautifiers, Code Formatters, Editors, Viewers, Minifier, Validators, Converters for Developers: XML, JSON, CSS, JavaScript, Java, C#, MXML, SQL, CSV, Excel"
+
     - term: 教程
       links:
         - title: 菜鸟教程
@@ -284,6 +289,13 @@
           url: https://ykt.eduyun.cn/
           description:
 
+    - term: 学术
+      links:
+        - title: 谷粉学术
+          logo: assets/images/logos/gfsoso_991b_net.ico
+          url: https://gfsoso.99lb.net/
+          description: 谷粉学术:由学术文献研究者联合建立的文献检索服务,方便大家稳定快速地利用谷歌学术搜索查找文献进行学术研究.您所在区域google学术无法访问时用谷粉学术进行文献查找就对了。 https://gfsoso.99lb.net/CNKI_free_entrance.html
+
     - term: 学生工具
       links:
 
@@ -348,6 +360,11 @@
           logo: assets/images/logos/dictation.png
           url: https://dictation.io/
           description: Dictation is a free online speech recognition software that will help you write emails, documents and essays using your voice narration and without typing.
+
+        - title: Save Subs
+          logo: assets/images/logos/savesubs.ico
+          url: https://savesubs.com/
+          description: Helps you convert edit and download subtitles from sites like youtube, viki, facebook, dailymotion and many other with ease
 
 - taxonomy: 财经
   icon: fa-money
