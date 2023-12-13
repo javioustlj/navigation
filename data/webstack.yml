@@ -89,6 +89,11 @@
           url: https://refactoring.guru/
           description: "Refactoring is a controllable process of improving code without creating new functionality. Design Patterns are typical solutions to the commonly occurring problems in software design."
 
+        - title: Universal Path Converter
+          logo: assets/images/logos/universalpathconverter
+          url: https://universalpathconverter.com/
+          description: "Convert UNC Windows, Linux, UNIX, Mac paths."
+
     - term: 教程
       links:
         - title: 菜鸟教程
