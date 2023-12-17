@@ -514,8 +514,8 @@
 
         - title: Z-library
           logo: assets/images/logos/Z-library.svg
-          url: https://zh.b-ok.global/
-          description: 号称全球最大的数字图书馆
+          url: https://z-lib.io/
+          description: 号称全球最大的数字图书馆 https://zh.b-ok.global/
 
         - title: 世界数字图书馆
           logo: assets/images/logos/WDL.svg
