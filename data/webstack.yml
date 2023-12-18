@@ -419,6 +419,11 @@
     - term: 量化投资
       links:
 
+        - title: SimNow
+          logo: assets/images/logos/simnow.jpg
+          url: https://www.simnow.com.cn/
+          description: "SimNow为广大投资者提供了一个最接近真实市场环境的仿真交易平台。SimNow和各家交易所的真实市场行情对接，根据真实市场行情对价成交，每日结算。SimNow可以帮助投资者熟悉多家交易所业务规则，学习交易原理，驾驭市场风险，提高交易实战技能。"
+
         - title: 迅投知识库
           logo: assets/images/logos/thinktrader.ico
           url: http://docs.thinktrader.net/
