@@ -535,7 +535,7 @@
         - title: 淘链客
           logo: assets/images/logos/Toplinks.svg
           url: http://www.toplinks.cc/s/
-          description: 
+          description: "https://www.taolinks.cc/"
 
         - title: iData
           logo: assets/images/logos/iData.svg
@@ -546,6 +546,12 @@
           logo: assets/images/logos/Shuge.svg
           url: https://new.shuge.org/
           description: 
+
+        - title: 熊猫搜书
+          logo: assets/images/logos/xmsoushu.ico
+          url: https://xmsoushu.com/
+          description: "熊猫搜索，熊猫搜书，聚合电子书、文档搜索引擎，一站式搜索导航，方便快速导航搜索全网资源，读书学习必备导航站。"
+
 
     - term: 有声书
       links:
@@ -559,6 +565,25 @@
           logo: assets/images/logos/huibooks.png
           url: https://www.huibooks.com/
           description: pdf,txt,mobi,epub,kindle电子书免费下载
+
+        - title: 时光图书馆
+          logo: assets/images/logos/atimebook.ico
+          url: https://atimebook.com/
+          description: "时光图书馆--经典珍藏图书, 文章系列软件"
+
+        - title: 高教书苑
+          logo: assets/images/logos/ebook_hep.ico
+          url: https://ebook.hep.com.cn/
+          description: "高教书苑,电子书，有声书,"
+
+
+    - term: 老旧网站
+      links:
+        - title: 第一图书网
+          logo: assets/images/logos/tushu007.ico
+          url: http://www.tushu007.com/
+          description: "PDF图书下载,免费PDF教材下载,PDF教程下载,PDF教材网,PDF图书网,PDF图书下载,第一图书网,250万本PDF图书评论与下载"
+
 
 - taxonomy: 资源福利
   icon: fa-gift
