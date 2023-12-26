@@ -177,14 +177,25 @@
     - term: 编辑器
       links:
         - title: Vim Tips Wiki | Fandom
-          logo: 
+          logo: assets/images/logos/vim_fandom.ico
           url: https://vim.fandom.com/wiki/Vim_Tips_Wiki
-          description:
+          description: "Vim Tips Wiki has help, documentation, tricks, and tutorial guides for both new and experienced users of the Vim text editor."
 
         - title: Latex Equation Editor
           logo: 
           url: https://latexeditor.lagrida.com/
-          description:
+          description: "Online LaTeX equation editor, free LaTeX equation generator (png, pdf, mathML, ...), generate your complex mathematical expressions with simple clicks."
+
+        - title: Simple Tex
+          logo: assets/images/logos/simpletex.ico
+          url: https://www.simpletex.cn/
+          description: "Just easily snip for a formula image or upload from local, you can quickly get the LaTeX expression for the mathematical formula! SimpleTex supports fast insertion of image/MathML/LaTeX and other formats to major document editing software, which could greatly boost the work efficiency. Best of all, SimpleTex is free and developed by college student!"
+
+        - title: LaTex 公式编辑器
+          logo: assets/images/logos/latexlive.png
+          url: https://www.latexlive.com/
+          description: "识别图片中的公式！免费的在线LaTeX公式编辑器。支持导出svg、超大png、jpg、MathML、SVGCode。可以打出任何公式，不只是数学！支持物理physics、化学mhchem、unicode等常用扩展宏包加载。即时渲染，基于MathJax实现。"
+
 
     - term: Python
       links:
@@ -584,7 +595,6 @@
           url: http://www.tushu007.com/
           description: "PDF图书下载,免费PDF教材下载,PDF教程下载,PDF教材网,PDF图书网,PDF图书下载,第一图书网,250万本PDF图书评论与下载"
 
-
 - taxonomy: 资源福利
   icon: fa-gift
   list:
@@ -595,6 +605,16 @@
           logo: 
           url: https://pangniao.net/
           description: 你需要光吗？
+
+        - title: 夜雨聆风
+          logo: assets/images/logos/
+          url: https://www.yeyulingfeng.com/
+          description: 夜雨聆风是一个不以营利为目的de资源博客,提供各种网络资源,绿色软件,技术教程等,这里只分享精品,致力于打造一个高质量的免费资源分享博客!
+
+        - title: 爱资料网站
+          logo: assets/images/logos/爱资料工具.png
+          url: https://www.toolnb.com/
+          description: "爱资料工具(toolnb.com),为开发运维提供全面的在线工具箱,已开发工具400款,包含开发工具,运维工具,常用工具,SEO站长工具等,是好用,方便的在线工具网站."
 
 - taxonomy: 影音
   icon: fa-play-circle
@@ -893,7 +913,20 @@
 
 - taxonomy: 文件
   icon: fa-file
-  list: 
+  list:
+    - term: 网盘
+      icon: fa-share-square-o
+      links:
+        - title: 就是加速
+          logo:
+          url: https://api.94speed.com/
+          description: "百度网盘链接解析"
+
+        - title: 百度网盘解析助手
+          logo: assets/images/logos/xn--vzyr4p.ico
+          url: https://mf.xn--vzyr4p.top/
+          description: "PanDownload 网页版，百度网盘分享链接在线解析工具"
+
     - term: 分享
       icon: fa-share-square-o
       links:
@@ -1138,10 +1171,10 @@
           url: https://tools.miku.ac/
           description:
 
-        - title: 爱资料网站
-          logo: assets/images/logos/爱资料工具.png
-          url: https://www.toolnb.com/
-          description: 爱资料工具(toolnb.com),为开发运维提供全面的在线工具箱,已开发工具400款,包含开发工具,运维工具,常用工具,SEO站长工具等,是好用,方便的在线工具网站.
+        - title: 那风工具箱
+          logo: assets/images/logos/tools_thatwind.png
+          url: https://tools.thatwind.com/
+          description: "在线工具箱。提供各种在线工具，界面简约美观高效。工具长期维护和更新"
 
     - term: 工具~杂
       icon: fa-wrench
