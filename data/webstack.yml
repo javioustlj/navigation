@@ -196,7 +196,6 @@
           url: https://www.latexlive.com/
           description: "识别图片中的公式！免费的在线LaTeX公式编辑器。支持导出svg、超大png、jpg、MathML、SVGCode。可以打出任何公式，不只是数学！支持物理physics、化学mhchem、unicode等常用扩展宏包加载。即时渲染，基于MathJax实现。"
 
-
     - term: Python
       links:
         - title: python-course.eu
@@ -301,6 +300,12 @@
           logo:
           url: https://www.saylor.org/
           description: Learn new skills, earn credit toward a degree, or advance your career at your own pace with free Saylor Academy courses!
+
+        - title: MOOC list
+          logo: assets/images/logos/mooc_list_com_png
+          url: https://www.mooc-list.com/
+          description: Learn new skills, earn credit toward a degree, or advance your career at your own pace with free Saylor Academy courses!
+
 
     - term: 公开课
       links:
@@ -411,6 +416,19 @@
           logo: assets/images/logos/antimoon.png
           url: https://www.antimoon.com/
           description: "Advice and inspiration for learners of English as a second/foreign language (ESL/EFL)."
+
+        - title: How to pronounce
+          logo: assets/images/logos/howtopronounce.png
+          url: https://www.howtopronounce.com/
+          description: "HowToPronounce.com is a crowdsourced audio pronunciation website that helps you learn how to say words, names and phrases contributed by native speakers."
+
+    - term: 教师
+      links:
+        - title: Alexandra Kolla
+          logo:
+          url: https://home.cs.colorado.edu/~alko5368/
+          description: "I am an Associate Professor at the Computer Science Department at CU Boulder.
+I got my PhD at U.C. Berkeley. My advisor was Umesh Vazirani. After that, I did a postdoc at the Institute for Advanced Study and at Microsoft Research in Redmond. Before joining CU Boulder, I was a professor at UIUC."
 
 - taxonomy: 财经
   icon: fa-money
