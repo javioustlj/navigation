@@ -94,6 +94,11 @@
           url: https://universalpathconverter.com/
           description: "Convert UNC Windows, Linux, UNIX, Mac paths."
 
+        - title: Hot Examples
+          logo: assets/images/logos/hotexamples.png
+          url: https://python.hotexamples.com/
+          description: "This service was created to help programmers find real examples of using classes and methods as well as documentation. Our system automatically searches, retrieves and ranks examples of source code from more than 1 million opensource projects. A key feature of the service is an opportunity to see examples of using a particular class or method from multiple projects on a single page."
+
     - term: 教程
       links:
         - title: 菜鸟教程
@@ -510,7 +515,6 @@ I got my PhD at U.C. Berkeley. My advisor was Umesh Vazirani. After that, I did 
           url: https://blog.noxue.com/
           description: 朝闻道，夕可眠矣。 这是著名插件IDE Eval Reset的作者。
 
-
     - term: 英语
       links:
         - title: 田间小站
@@ -529,6 +533,11 @@ I got my PhD at U.C. Berkeley. My advisor was Umesh Vazirani. After that, I did 
           logo: 
           url: https://www.huangjiwei.com/blog/
           description: 几支无用笔，半打有心人。
+
+        - title: 论文助手
+          logo: assets/images/logos/ulunwen.png
+          url: https://www.ulunwen.com/
+          description: "论文助手网,可以免费查找毕业论文,提供PPT,源代码,答辩技巧,课程设计,毕业论文定制,论文查重检测,论文修改,学术期刊,外文翻译,开题报告,出国留学,职称评级,留学申请,留学生论文范文和医学文献。"
 
 - taxonomy: 图书
   icon: fa-book
@@ -644,6 +653,11 @@ I got my PhD at U.C. Berkeley. My advisor was Umesh Vazirani. After that, I did 
           logo: assets/images/logos/Mycat.png
           url: https://www.mvcat.com
           description: 人生如戏，戏如人生，命由己造，相由心生。
+
+        - title: IMDB 爱影库
+          logo: assets/images/logos/imdb.ico
+          url: https://www.imdb.cn/
+          description: "imdb爱影库(IMDB中文网)是全球最全的电影电视和明星内容资源,查找各类热门影视大片与明星评分和评论,致力于为广大影视爱好者提供最及时的影视信息推荐"
 
     - term: 在线播放：
       links:
@@ -768,6 +782,12 @@ I got my PhD at U.C. Berkeley. My advisor was Umesh Vazirani. After that, I did 
     - term: 视频下载
       icon: fa-download
       links:
+
+        - title: 哔哩哔哩视频解析下载
+          logo: assets/images/logos/iiilab.ico
+          url: https://bili.iiilab.com/
+          description: "哔哩哔哩高清视频解析下载工具是一个免费的B站视频在线解析提取工具,支持提取B站APP和bilibili网站上的任何视频,提取出来的视频无水印.我们可以借助此下载器方便地将视频保存到手机相册或者电脑硬盘."
+
         - title: BTtwo
           logo: assets/images/logos/BTtwo.svg
           url: https://www.bttwo.com/
@@ -2404,6 +2424,11 @@ I got my PhD at U.C. Berkeley. My advisor was Umesh Vazirani. After that, I did 
           url: https://edui123.com/
           description: 让教学简单一点点
 
+        - title: YYWZ123 英语学习网站大全
+          logo: assets/images/logos/yywz123.ico
+          url: https://www.yywz123.com/
+          description: "英语学习网站大全，英语网址之家，英语学习上网导航，小语种学习导航，网上最全的学英语的好网站汇总。汇集国内外优秀的英语学习网站，是广大外语爱好者学习导航。"
+
     - term: 专业导航
       links:
 
@@ -2527,3 +2552,13 @@ I got my PhD at U.C. Berkeley. My advisor was Umesh Vazirani. After that, I did 
           logo: assets/images/logos/wikihow.ico
           url: https://zh.wikihow.com/
           description: wikiHow是一项协作项目，目标是建立世界最大的最高质量的指导手册。无论您想做什么，我们的多语种指导手册都可以为您提供免费的逐步指导。
+
+        - title: 戒色吧戒色网
+          logo: assets/images/logos/9bulu.png
+          url: https://www.9bulu.com/
+          description: "戒色网专注于戒色，分享戒色文章,图片,视频,方法,教你如何戒色,和大家共同奋斗,孝敬父母,行善积德,改变命运,梦想飞翔,戒色吧一个专注于戒色的网站，汇聚大量的戒色文章，提供全集在线阅读，教大家怎样自律，如何戒色，戒色就上戒色网"
+
+        - title: 劝学网
+          logo: assets/images/logos/quanxue.ico
+          url: https://www.quanxue.cn/
+          description: "劝学网,学习网站,公益网站,国学网"
