@@ -311,7 +311,6 @@
           url: https://www.mooc-list.com/
           description: Learn new skills, earn credit toward a degree, or advance your career at your own pace with free Saylor Academy courses!
 
-
     - term: 公开课
       links:
         - title: 网易公开课
@@ -341,6 +340,21 @@
           logo: assets/images/logos/koovin.ico
           url: http://www.koovin.com/
           description: 库问搜索免费提供超过千万开源学术论文资源检索和下载，涵盖宗教哲学、社会科学、政治法律、军事经济、文化教育、文学艺术、历史地理、IT信息、自然科学、生物医学、工业农业、航空航天等各大领域。
+
+        - title: 万维书刊网
+          logo: assets/images/logos/eshukan.ico
+          url: https://eshukan.com/
+          description: "万维书刊—免费投稿网、期刊大全、投稿地址大全，论文投稿发表更容易!"
+
+        - title: 公务员期刊网
+          logo: assets/images/logos/21ks.ico
+          url: https://www.21ks.net/
+          description: "公务员期刊网在线提供学术咨询、期刊咨询、杂志订阅服务，一站式期刊推荐咨询服务，让您省时省力！"
+
+        - title: 中刊网
+          logo: assets/images/logos/china-journal.ico
+          url: https://www.china-journal.net/
+          description: "中刊网——期刊资源领航者！"
 
     - term: 学生工具
       links:
