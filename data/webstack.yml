@@ -99,6 +99,31 @@
           url: https://python.hotexamples.com/
           description: "This service was created to help programmers find real examples of using classes and methods as well as documentation. Our system automatically searches, retrieves and ranks examples of source code from more than 1 million opensource projects. A key feature of the service is an opportunity to see examples of using a particular class or method from multiple projects on a single page."
 
+        - title: Rico's cheatsheets
+          logo: assets/images/logos/devhints.png
+          url: https://devhints.io/
+          description: "A ridiculous collection of web development cheatsheets"
+
+        - title: Vimcdoc 
+          logo: assets/images/logos/devhints.png
+          url: https://vimcdoc.sourceforge.net/
+          description: "Vim Chinese Documentation"
+
+        - title: Tex Users Group
+          logo: assets/images/logos/tug.png
+          url: https://www.tug.org/
+          description: "TeX LaTeX Metafont MetaPost UG TUGboat TeXLive TeX Live MacTeX CTAN typesetting typography fonts"
+
+        - title: Shiar's cheat sheets
+          logo: assets/images/logos/sheet_shiar.png
+          url: https://sheet.shiar.nl/
+          description: "Cheat sheets summarising various software programs and standards."
+
+        - title: International Phonetic Alphabet (IPA) Chart Unicode “Keyboard”
+          logo: assets/images/logos/ilg_usc_gal.ico
+          url: https://ilg.usc.es/ipa-chart/keyboard/
+          description: "Interface for entering/typing IPA characters/symbols/glyphs/letters and diacritics."
+
     - term: 教程
       links:
         - title: 菜鸟教程
@@ -185,6 +210,12 @@
           logo: assets/images/logos/vim_fandom.ico
           url: https://vim.fandom.com/wiki/Vim_Tips_Wiki
           description: "Vim Tips Wiki has help, documentation, tricks, and tutorial guides for both new and experienced users of the Vim text editor."
+
+        - title: Vim Tips Wiki | Fandom
+          logo: assets/images/logos/viemu.ico
+          url: http://www.viemu.com/
+          description: "vi-vim editor emulation for Visual Studio, Word, Outlook and SQL Server"
+
 
         - title: Latex Equation Editor
           logo: 
@@ -446,8 +477,7 @@
         - title: Alexandra Kolla
           logo:
           url: https://home.cs.colorado.edu/~alko5368/
-          description: "I am an Associate Professor at the Computer Science Department at CU Boulder.
-I got my PhD at U.C. Berkeley. My advisor was Umesh Vazirani. After that, I did a postdoc at the Institute for Advanced Study and at Microsoft Research in Redmond. Before joining CU Boulder, I was a professor at UIUC."
+          description: "I am an Associate Professor at the Computer Science Department at CU Boulder. I got my PhD at U.C. Berkeley. My advisor was Umesh Vazirani. After that, I did a postdoc at the Institute for Advanced Study and at Microsoft Research in Redmond. Before joining CU Boulder, I was a professor at UIUC."
 
 - taxonomy: 财经
   icon: fa-money
@@ -494,10 +524,20 @@ I got my PhD at U.C. Berkeley. My advisor was Umesh Vazirani. After that, I did 
     - term: 计算机技术
       links:
 
+        - title: 小林coding
+          logo: assets/images/logos/xiaolincoding.webp
+          url: https://www.xiaolincoding.com/
+          description: "图解计算机网络、操作系统、计算机组成、数据库，让天下没有难懂的八股文！"
+
         - title: 柳婼 の blog
           logo: assets/images/logos/liuchuo.png
           url: https://www.liuchuo.net/
           description: 我不管，反正我最萌
+
+        - title: qiql's Blog
+          logo: assets/images/logos/qiql.jpg
+          url: https://blog.qiql.net/
+          description: 水能载舟，亦可赛艇！
 
         - title: Evian Zhang's naive blog
           logo:
@@ -528,6 +568,13 @@ I got my PhD at U.C. Berkeley. My advisor was Umesh Vazirani. After that, I did 
           logo: assets/images/logos/noxue.ico
           url: https://blog.noxue.com/
           description: 朝闻道，夕可眠矣。 这是著名插件IDE Eval Reset的作者。
+
+        - title: 滇狐
+          logo: assets/images/logos/edyfox_codecarver.ico
+          url: https://edyfox.codecarver.org/
+          description: 朝闻道，夕可眠矣。 这是著名插件IDE Eval Reset的作者。
+
+
 
     - term: 英语
       links:
@@ -628,6 +675,10 @@ I got my PhD at U.C. Berkeley. My advisor was Umesh Vazirani. After that, I did 
           url: https://ebook.hep.com.cn/
           description: "高教书苑,电子书，有声书,"
 
+        - title: 热点图书网
+          logo: assets/images/logos/happydot.ico
+          url: http://www.happydot.top/
+          description: "免费图书分享网站"
 
     - term: 老旧网站
       links:
@@ -647,8 +698,13 @@ I got my PhD at U.C. Berkeley. My advisor was Umesh Vazirani. After that, I did 
           url: https://pangniao.net/
           description: 你需要光吗？
 
+        - title: 维京小屋
+          logo: assets/images/logos/vikingcabin.jpg
+          url: https://vikingcabin.com/
+          description: "PDF下载，一个简洁的资源分享站点！"
+
         - title: 夜雨聆风
-          logo: assets/images/logos/
+          logo: assets/images/logos/yeyulingfeng.png
           url: https://www.yeyulingfeng.com/
           description: 夜雨聆风是一个不以营利为目的de资源博客,提供各种网络资源,绿色软件,技术教程等,这里只分享精品,致力于打造一个高质量的免费资源分享博客!
 
@@ -2576,3 +2632,14 @@ I got my PhD at U.C. Berkeley. My advisor was Umesh Vazirani. After that, I did 
           logo: assets/images/logos/quanxue.ico
           url: https://www.quanxue.cn/
           description: "劝学网,学习网站,公益网站,国学网"
+
+        - title: Hacker News
+          logo: assets/images/logos/ycombinator.svg
+          url: https://news.ycombinator.com/
+          description: ""
+
+        - title: Inspired To Reality
+          logo: assets/images/logos/inspiredtoreality.png
+          url: https://www.inspiredtoreality.com/
+          description: "Motivational Quotes and Stories. Share your Motivational Stories and engage with the community to get inspired every day."
+

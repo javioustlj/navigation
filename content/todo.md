@@ -158,3 +158,19 @@ Latex editor
 - https://www.kkkkwu.com/
 
 ### temp
+
+- https://wangchujiang.com/
+- https://guide.v2fly.org/
+- https://hk029.gitbooks.io/leetbook/content/topic_include.html
+- https://career-plan.eu.org/
+- https://studyhard.cf/
+- https://convertio.co/zh/
+- https://liam.page/
+
+### 说说:
+- https://zhang-each.github.io/
+- https://cwlrin.wiki/
+- https://blog.qiql.net/
+
+
+
