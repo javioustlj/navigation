@@ -124,6 +124,11 @@
           url: https://ilg.usc.es/ipa-chart/keyboard/
           description: "Interface for entering/typing IPA characters/symbols/glyphs/letters and diacritics."
 
+        - title: ShellCheck
+          logo: assets/images/logos/shellcheck.ico
+          url: https://www.shellcheck.net/
+          description: "ShellCheck is an open source static analysis tool that automatically finds bugs in your shell scripts."
+
     - term: 教程
       links:
         - title: 菜鸟教程
@@ -415,6 +420,11 @@
           url: http://sciencesoft.at/
           description: ScienceSoft,software,science,software development
 
+        - title: 浙江大学课程攻略共享计划
+          logo:
+          url: https://qsctech.github.io/zju-icicles/
+          description: 
+
     - term: 英语资源
       links:
         - title: Randall's ESL Cyber Listening Lab
@@ -575,6 +585,12 @@
           description: 朝闻道，夕可眠矣。 这是著名插件IDE Eval Reset的作者。
 
 
+    - term: 学术
+      links:
+        - title: Feng's Blog
+          logo: assets/images/logos/windsky.svg
+          url: https://blog.windsky.tech/
+          description: 就算流泪也要和你一起
 
     - term: 英语
       links:
@@ -599,6 +615,12 @@
           logo: assets/images/logos/ulunwen.png
           url: https://www.ulunwen.com/
           description: "论文助手网,可以免费查找毕业论文,提供PPT,源代码,答辩技巧,课程设计,毕业论文定制,论文查重检测,论文修改,学术期刊,外文翻译,开题报告,出国留学,职称评级,留学申请,留学生论文范文和医学文献。"
+
+        - title: 万事屋的阿虚
+          logo: assets/images/logos/axutongxue.jpg
+          url: https://www.axutongxue.top/
+          description: "以下为逐步整理中的「微信公众号：阿虚同学」和「QQ频道：阿虚同学的交流群」历史提问与解答"
+
 
 - taxonomy: 图书
   icon: fa-book
@@ -2642,4 +2664,3 @@
           logo: assets/images/logos/inspiredtoreality.png
           url: https://www.inspiredtoreality.com/
           description: "Motivational Quotes and Stories. Share your Motivational Stories and engage with the community to get inspired every day."
-
