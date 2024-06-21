@@ -32,6 +32,12 @@
           url: https://www.codingame.com/
           description: 编程游戏
 
+        - title: Techie Delight
+          logo: assets/images/logos/techiedelight.ico
+          url: https://www.techiedelight.com/
+          description: "Techie Delight is a leading platform for technical interview preparation. Prepare for your coding interview with Techie Delight. Improve your algorithmic skills and crack interviews with top tech companies.""
+
+
     - term: 程序员工具
       links: 
         - title: Visual Go
