@@ -37,7 +37,6 @@
           url: https://www.techiedelight.com/
           description: "Techie Delight is a leading platform for technical interview preparation. Prepare for your coding interview with Techie Delight. Improve your algorithmic skills and crack interviews with top tech companies.""
 
-
     - term: 程序员工具
       links: 
         - title: Visual Go
@@ -494,6 +493,12 @@
           logo:
           url: https://home.cs.colorado.edu/~alko5368/
           description: "I am an Associate Professor at the Computer Science Department at CU Boulder. I got my PhD at U.C. Berkeley. My advisor was Umesh Vazirani. After that, I did a postdoc at the Institute for Advanced Study and at Microsoft Research in Redmond. Before joining CU Boulder, I was a professor at UIUC."
+
+        - title: Database Group of Tsinghua University
+          logo:
+          url: https://dbgroup.cs.tsinghua.edu.cn/
+          description: 清华大学关于数据库的一个研究组织
+
 
 - taxonomy: 财经
   icon: fa-money
