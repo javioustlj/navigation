@@ -2415,7 +2415,22 @@
     - title: slow roads
       logo: assets/images/logos/slowroads.png
       url: https://slowroads.io/
-      description:
+      description: "Endless driving zen"
+
+    - title: Zoom Earth
+      logo: assets/images/logos/zoom_earth.jpg
+      url: https://zoom.earth/
+      description: "Interactive world weather map. Track hurricanes, cyclones, storms. View LIVE satellite images, rain radar, forecast maps of wind, temperature for your location."
+
+    - title: A SOFT MURMUR
+      logo: assets/images/logos/asoftmurmur.png
+      url: https://asoftmurmur.com
+      description: "Mix ambient sounds together to wash away distraction and help you focus or relax"
+
+    - title: GeoFS
+      logo: assets/images/logos/geo-fs.png
+      url: https://www.geo-fs.com
+      description: "GeoFS is a free flight simulator using global satellite images and running in your web browser or as a mobile app. Realistic and multiplayer, GeoFS provides real-life commercial traffic (ADS-B) and local weather conditions wherever you fly in the world."
 
 - taxonomy: 导航
   icon: fa-bars
@@ -2589,6 +2604,11 @@
           url: https://www.pmbaobao.com/
           description: 互联网人必上导航站，收录产品、运营、交互设计、用户体验、行业资讯、数据分析、电子商务、产品运营必备工具、国外优秀网站等相关网站。
 
+        - title: FUUN.FUN
+          logo: assets/images/logos/fuun_fun.png
+          url: https://fuun.fun/
+          description: "奇趣网站收藏家"
+
     - term: 前端设计
       icon: fa-paint-brush
       links:
@@ -2684,3 +2704,13 @@
           logo: assets/images/logos/inspiredtoreality.png
           url: https://www.inspiredtoreality.com/
           description: "Motivational Quotes and Stories. Share your Motivational Stories and engage with the community to get inspired every day."
+
+        - title: 有用经验
+          logo: assets/images/logos/yyjingyan.png
+          url: https://yyjingyan.com
+          description: "分享有用经验，打破信息茧房"
+
+        - title: The Useless Web
+          logo: assets/images/logos/theuselessweb.ico
+          url: https://theuselessweb.com/
+          description: "The Useless Web Button... take me somewhere... useless. The perfect button for the bored, or those looking to find random sites online!"
