@@ -266,6 +266,7 @@
           url: https://owasp.org/www-project-mutillidae-ii/
           description: A free, open-source, deliberately vulnerable web application providing a target for web security training
 
+
 - taxonomy: 学生慕课
   icon: fa-university
   list:
@@ -538,6 +539,7 @@
           url: http://30daydo.com/people/%E6%9D%8E%E9%AD%94%E4%BD%9B
           description: 30天，在漫长的一生当中，短暂而易逝。就如在不经意间，收到手机的月结扣费短信，然后惊呼 ”这么快又月结扣钱啦"。 而一集TED演讲中，马特·卡茨却用这30天的时间，改变了性格，改变了生活方式。看完后，你是否和我一样，有一股冲动，嗯，曾经藏起来的那个儿时的梦想，曾经在脑海中瞬间即逝的疯狂的想法，是否想去尝试一下？ 害怕被人笑？ 害怕失败？ 没关系，30天之后，又是一条好汉。30天在生命中就如沧海一粟，而你尝试的这些新事情，却会一直印记在脑海中。以后，当你向别人介绍自己时，你不是说，“我是一名软件工程师"，而是“我是某本书的作者”，“我是一名记者"，"我是一名志愿者", "我是一个TED的演讲者"。"
 
+
 - taxonomy: 博客
   icon: fa-tags
   list:
@@ -720,6 +722,7 @@
           url: http://www.tushu007.com/
           description: "PDF图书下载,免费PDF教材下载,PDF教程下载,PDF教材网,PDF图书网,PDF图书下载,第一图书网,250万本PDF图书评论与下载"
 
+
 - taxonomy: 资源福利
   icon: fa-gift
   list:
@@ -745,6 +748,7 @@
           logo: assets/images/logos/爱资料工具.png
           url: https://www.toolnb.com/
           description: "爱资料工具(toolnb.com),为开发运维提供全面的在线工具箱,已开发工具400款,包含开发工具,运维工具,常用工具,SEO站长工具等,是好用,方便的在线工具网站."
+
 
 - taxonomy: 影音
   icon: fa-play-circle
@@ -2406,7 +2410,12 @@
     - title: Typing practice
       logo: assets/images/logos/Keybr.svg
       url: https://www.keybr.com/
-      description: 
+      description:
+
+    - title: slow roads
+      logo: assets/images/logos/slowroads.png
+      url: https://slowroads.io/
+      description:
 
 - taxonomy: 导航
   icon: fa-bars
