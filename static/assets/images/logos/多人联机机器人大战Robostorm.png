@@ -1,0 +1,103 @@
+<!doctype html>
+<html>
+<head>
+
+<meta name="description" content="Fast-paced multiplayer robot battle game. Challenge players around the world and enjoy juicy 3D destruction!">
+<meta name="keywords" content="robostorm, io, robot, robots, action, battle, destruction, game, games, web game, html5, webgl, webgl2, playcanvas">
+<meta name="robots" content="index, follow">
+<meta property="og:title" content="Robostorm.io " />
+<meta property="og:description" content="Fast-paced multiplayer robot battle game. Challenge players around the world and enjoy juicy 3D destruction!" />
+<meta property="og:url" content="http://robostorm.io/" />
+<meta property="og:image" content="https://i.imgur.com/Sr7tCkD.jpg" />
+
+<meta name="google-signin-client_id" content="534628174912-47fui6idvu6sca80cojsj5rohdhps2ut.apps.googleusercontent.com">
+<script src="https://apis.google.com/js/api:client.js"></script>
+<script src="https://apis.google.com/js/platform.js"></script>
+
+<script>var leaderboardString = [["x)",767],[".",641],["%7D%7DLMFAO%7B%7B",641],["chris999warrior",622],["%7D%7C%7B",619],["Cepli%20Karton",613],["%7D%7D%7D%7C%7C%7B%7B%7B",596],["%7D%7D%7C%7C%7B%7B",578],["RoboCop",572],[")%7C%7C(",555]];</script>
+
+<meta http-equiv="origin-trial" data-feature="WebVR (For Chrome M62+)" data-expires="2017-12-15" content="AmT5IGTRDfjcWjPdMDa8eWoo0n5S9W7CzfTWSPnGwsnlSkmv0sNrdShGozt6SPGy9s8zAsBx5JmRC2zVRiNYcw4AAABjeyJvcmlnaW4iOiJodHRwczovL3BsYXljYW52LmFzOjQ0MyIsImZlYXR1cmUiOiJXZWJWUjEuMU02MiIsImV4cGlyeSI6MTUxMzMzODIwMSwiaXNTdWJkb21haW4iOnRydWV9" />
+    <meta name='viewport' content='width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no' />
+    <meta charset='utf-8'>
+    <link rel="stylesheet" type="text/css" href="https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/sf6MAiRf/styles.css">
+    <link rel="manifest" href="https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/sf6MAiRf/manifest.json">
+    <style></style>
+    <title>Robostorm</title>
+    <script src="https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/sf6MAiRf/playcanvas-stable.min.js"></script>
+    <script>
+        ASSET_PREFIX = "https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/sf6MAiRf/";
+        SCRIPT_PREFIX = "https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/sf6MAiRf/";
+        SCENE_PATH = "530976.json";
+        CONTEXT_OPTIONS = {
+            'antialias': true,
+            'alpha': false,
+            'preserveDrawingBuffer': false,
+            'preferWebGl2': true
+        };
+        SCRIPTS = [ 8177527, 8239028, 8276879, 8280697, 8284447, 8402530, 8409728, 8444368, 8457928, 8499964, 8548336, 8714006, 8763297, 8765536, 8767767, 8767820, 8770157, 8837403, 8868372, 8869427, 8909647, 8947926, 9124400, 9153427, 9165726, 9196783, 9252629, 9254319, 9260027, 9352868, 9391967, 9504450, 9785198, 10119639, 10178465, 10178511, 11165699 ];
+        CONFIG_FILENAME = "https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/sf6MAiRf/config.json";
+        pc.script.legacy = false;
+    </script>
+</head>
+<body>
+    <script src="https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/sf6MAiRf/__start__.js"></script>
+    <script src="https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/sf6MAiRf/__loading__.js"></script>
+
+    <style>
+    .MoreGames{position: absolute;bottom: 10px;right: 10px;padding: 5px;background: #009cff;color: #FFF;cursor: pointer;z-index: 999999999;}
+    .MoreGames:hover{-ms-transform: scale(1.5, 1.5);-webkit-transform: scale(1.5, 1.5);transform: scale(1.5, 1.5);}
+    </style>
+    <a id="MoreGamesAd" class="MoreGames" title="More .io Games" href="https://www.freegames66.com/io-games" target="_blank" style="position: absolute;bottom: 10px;right: 10px;padding: 5px;background: #009cff;color: #FFF;cursor: pointer;z-index: 999999999;">More .io Games</a>
+
+    <a id="agBanner" href="http://www.addictinggames.com" target="_blank" style="position: absolute;bottom: 10px;left: 10px;padding: 5px;cursor: pointer;z-index: 999999999; opacity:0.8;"><img src="http://cdn2.addictinggames.com/addictinggames-content/ag-assets/ag-logos/addicting-games-mark-black@1x.png"></a>
+
+    <div id="agText" style="position: absolute;bottom: 105px;left: 127px;padding: 5px;cursor: pointer;z-index: 999999999; opacity:0.8;">More free <a href="http://www.addictinggames.com" target="_blank">games</a></div>
+
+    <script>
+        var newAdDiv = document.getElementById("MoreGamesAd");
+        var newAdDiv2 = document.getElementById("agBanner");
+        var newAdDiv3 = document.getElementById("agText");
+        var _pcApp = pc.Application.getApplication();
+        if (newAdDiv && newAdDiv2 && _pcApp) {
+            var newAdIsShown = true;
+            _pcApp.on("update", function() {
+                if (!pc.GAMECLIENT || !pc.GAMECLIENT.textRespawn) return;
+                var shouldShow = startMenuMode || pc.GAMECLIENT.textRespawn.enabled || finMenuMode || buyMenuMode;
+                if (newAdIsShown !== shouldShow) {
+                    newAdDiv.style.display = newAdDiv2.style.display = shouldShow ? "block" : "none";
+                    newAdIsShown = shouldShow;
+                }
+            });
+        }
+        if (startMenu) {
+            var childList = startMenu.parentElement.children;
+            for(var b=0; b<childList.length; b++) {
+                if (childList[b] && childList[b].tagName === "DIV") {
+                    if (childList[b].innerHTML.indexOf("Credits") >= 0) {
+
+                        // Remove 2 line breaks
+                        childList[b].innerHTML = childList[b].innerHTML.replace('<br><br><a href="https://playcanvas.com" target="_blank">PlayCanvas engine and tools</a><br><br>', '  <a href="https://playcanvas.com" target="_blank">PlayCanvas engine and tools</a>').replace('games:<br><br><div style="width:60%;', 'games:<br><div style="width:100%;').replace("MrSavio", "Georgii Amelekhin");
+
+                        var thisMenu = childList[b];
+                        childList[b].children[childList[b].children.length - 1].onclick = function() {
+                            thisMenu.style.display = "none";
+                        };
+
+                        // Add sponsored pic
+                        var sponsored = document.createElement("div");
+                        sponsored.innerHTML = '<a id="agBanner2" href="http://www.addictinggames.com" target="_blank" style="position: absolute;bottom: 57px;left: 10px;padding: 5px;cursor: pointer;z-index: 999999999; opacity:0.8;"><img width="320px" src="http://cdn2.addictinggames.com/addictinggames-content/ag-assets/ag-logos/addicting-games-horizontal_rev-sponsor@2x.png"></a>';
+                        childList[b].appendChild(sponsored);
+                        if (newAdDiv3) {
+                            childList[b].appendChild(newAdDiv3);
+                            //childList[b].style.height =
+                        }
+
+                        break;
+                    }
+                }
+            }
+        }
+    </script>
+
+</body>
+</html>

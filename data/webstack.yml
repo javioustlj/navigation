@@ -2673,6 +2673,201 @@
           url: https://www.addog.vip/
           description: 广告人的网址导航 | 品牌/策划/营销/创意/文案
 
+- taxonomy: 游戏
+  icon: fa-gamepad
+  list:
+    - term: 在线游戏
+      links:
+        - title: 街机复古游戏网站
+          logo: assets/images/logos/街机复古游戏网站.png
+          url: https://ggemu.com
+          description: 支持移动端触摸 NDS 模拟可玩NS游戏的在线模拟游戏网站
+
+        - title: 多人联机怼怼大作战-Bulletz
+          logo: assets/images/logos/多人联机怼怼大作战Bulletz.png
+          url: https://bulletz.io
+          description: 一款令人上瘾的在线多人游戏，玩法类似于多年前爆火的Agar.io，但加入了刺激的射击元素
+
+        - title: 在线拼图游戏 - Jigsaw Planet
+          logo: assets/images/logos/在线拼图游戏JigsawPlanet.png
+          url: https://www.jigsawplanet.com
+          description: 一个在线拼图游戏平台，可以在这里创建、玩和分享拼图
+
+        - title: CrazyGames 疯狂游戏
+          logo: assets/images/logos/CrazyGames疯狂游戏.png
+          url: https://www.crazygames.com
+          description: 在线游戏平台，提供超 4500+ 款免费游戏，无需下载，网页即点即玩
+
+        - title: 进化 Evolve
+          logo: assets/images/logos/进化Evolve.png
+          url: https://tool.8kmm.com/tools/Evolve
+          description: 进化是一款网页游戏，首先由原生质选择进化为某种智慧生物，然后带领他们走向繁荣昌盛
+
+        - title: Guivo 竞技三消对抗
+          logo: assets/images/logos/Guivo竞技三消对抗.png
+          url: https://guivo.io
+          description: 三消类游戏上手简单但精通有难度，与其他线上玩家比拼消除速度和数量
+
+        - title: 超级马里奥在线网页版
+          logo: assets/images/logos/超级马里奥在线网页版.png
+          url: https://supermario.net
+          description: 经典游戏《超级马里奥兄弟》的在线游玩版本
+
+        - title: Retro Online
+          logo: assets/images/logos/RetroOnline.png
+          url: https://ddyx.me
+          description: 经典DOS和Windows游戏在线玩的平台
+
+        - title: Steam免费游戏情报站
+          logo: assets/images/logos/Steam免费游戏情报站.png
+          url: https://freesteam.games
+          description: 专注于分享Steam平台上免费游戏和超值组合包信息的网站
+
+        - title: 老游戏在线玩
+          logo: assets/images/logos/老游戏在线玩.png
+          url: https://zaixianwan.app
+          description: 在浏览器里畅玩 2500+ 中文老游戏，支持触屏、键盘、存档
+
+        - title: IMC.RE小游戏平台
+          logo: assets/images/logos/IMCRE小游戏平台.png
+          url: https://games.imc.re
+          description: 在线小游戏平台，包含我的世界、植物大战僵尸、斗地主等
+
+        - title: 在线围棋-Online Go
+          logo: assets/images/logos/在线围棋OnlineGo.png
+          url: https://online-go.com
+          description: OGS在线围棋对战平台，学习下棋的好地方
+
+        - title: 云·原神网页版
+          logo: assets/images/logos/云原神网页版.png
+          url: https://ys.mihoyo.com/cloud/#/
+          description: 米哈游原神网页版，无需下载直接打开浏览器就能玩
+
+        - title: 死亡突围网页版
+          logo: assets/images/logos/死亡突围网页版.png
+          url: https://zw.deadahead.zone
+          description: 不用登陆也能玩，登陆后可以打各种活动
+
+        - title: Kiomet
+          logo: assets/images/logos/Kiomet.png
+          url: https://kiomet.com
+          description: 一款实时战略游戏，可以通过占领塔来扩张领土
+
+        - title: PlayOK
+          logo: assets/images/logos/PlayOK.png
+          url: https://www.playok.com
+          description: 免费在线经典棋牌对弈平台
+
+        - title: 微软小游戏合集
+          logo: assets/images/logos/微软小游戏合集.png
+          url: https://www.msn.cn/zh-cn/play/arcade
+          description: 微软提供的在线小游戏合集，分为街机、解谜、策略、体育等类型
+
+        - title: 文字密室逃脱
+          logo: assets/images/logos/文字密室逃脱.png
+          url: https://nodes-escape.hzfe.org
+          description: 思维导图式的文字密室逃脱
+
+        - title: 红白机游戏盒
+          logo: assets/images/logos/红白机游戏盒.png
+          url: https://nes.heheda.top
+          description: 红白机游戏盒，带你找回童年的感觉
+
+        - title: 酷炫俄罗斯方块
+          logo: assets/images/logos/酷炫俄罗斯方块.png
+          url: https://tetr.io
+          description: 在线俄罗斯方块对战
+
+        - title: 在线舰艇战斗
+          logo: assets/images/logos/在线舰艇战斗.png
+          url: https://mk48.io
+          description: 免费的在线舰艇战斗游戏，驶向胜利，小心鱼雷
+
+        - title: Hextris
+          logo: assets/images/logos/Hextris.png
+          url: https://hextris.io
+          description: 一个六边形俄罗斯方块游戏
+
+        - title: 红色警戒2
+          logo: assets/images/logos/红色警戒2.png
+          url: https://ra2web.com
+          description: 网页版红色警戒
+
+        - title: 在线贪吃蛇
+          logo: assets/images/logos/在线贪吃蛇.png
+          url: https://slither.io
+          description: 多人互动，风靡全球的贪吃蛇网页版
+
+        - title: Krunker
+          logo: assets/images/logos/Krunker.png
+          url: https://krunker.io
+          description: 在线多人对战FPS游戏
+
+        - title: 连线小游戏
+          logo: assets/images/logos/连线小游戏.png
+          url: https://lines.frvr.com
+          description: 画面简约，玩法轻松有趣的连线闯关游戏
+
+        - title: 保卫基地塔防游戏
+          logo: assets/images/logos/保卫基地塔防游戏.png
+          url: https://yorg.io
+          description: 一款塔防类io游戏
+
+        - title: 休闲驾驶-Slow Roads
+          logo: assets/images/logos/休闲驾驶SlowRoads.png
+          url: https://slowroads.io
+          description: AI随机生成的地图，享受沿途风景的休闲驾驶游戏
+
+        - title: 多人联机机器人大战-Robostorm
+          logo: assets/images/logos/多人联机机器人大战Robostorm.png
+          url: http://robostorm.io
+          description: 在线多人联机机器人枪战，画面流畅
+
+        - title: BestGames 在线小游戏
+          logo: assets/images/logos/BestGames在线小游戏.png
+          url: https://www.bestgames.com
+          description: 超多游戏合集的在线小游戏网站
+
+        - title: 你画我猜对抗版-Draw Battle
+          logo: assets/images/logos/你画我猜对抗版DrawBattle.png
+          url: https://drawbattle.io
+          description: 你画我猜对抗版
+
+        - title: Surviv
+          logo: assets/images/logos/Surviv.png
+          url: https://surviv.io
+          description: 在线免费的2D网页版大逃杀
+
+        - title: 在线 DOS 游戏
+          logo: assets/images/logos/在线DOS游戏.png
+          url: https://dos.zczc.cz
+          description: 在浏览器中在线游玩 DOS 游戏
+
+        - title: Poki 小游戏
+          logo: assets/images/logos/Poki小游戏.png
+          url: https://poki.com
+          description: 手机、平板、PC全平台免安装在线游玩小游戏
+
+        - title: 在线中文FC游戏合集
+          logo:
+          url: http://www.famicn.com
+          description: 在线中文FC游戏合集
+
+        - title: 遥控小汽车
+          logo: assets/images/logos/遥控小汽车.png
+          url: https://bruno-simon.com
+          description: 在线模拟遥控小汽车操作，真实物理效果
+
+        - title: 跳跳大作战
+          logo: assets/images/logos/跳跳大作战.png
+          url: https://pie.ai
+          description: 多人联机吃蛋糕，要躲开炸弹的轰炸
+
+        - title: 在线飞行模拟器-GeoFS
+          logo: assets/images/logos/在线飞行模拟器GeoFS.png
+          url: https://www.geo-fs.com
+          description: 在线游玩飞行模拟器
+
 - taxonomy: 无法分类
   icon: fa-bars
   list:
